@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/Hive.umap",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Rectangle_D1B6B094.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Rectangle_0FDC68D3.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Rectangle_BB2C2F72.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/M_Basic_Wall1.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Materials/M_Basic_Wall1.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Rectangle_FE30C0AD.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Cylinder_2C8363B1.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Cylinder_B5449ED0.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Examples/_GENERATED/04jac/Cylinder_E2962E5C.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Materials/M_RoofTiles.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/Materials/M_Brick_Clay_New1.uasset",
+				"D:/Work/UE5 Projects/Vertical_Jam_Group_2/UProject Files/VerticalJam2025/Content/Levels/LowPoly_Assets/WIP/SM_Roof.uasset"
+			]
+		}
+	]
+}
