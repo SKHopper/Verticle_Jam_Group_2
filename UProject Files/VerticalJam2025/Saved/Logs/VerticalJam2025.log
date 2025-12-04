@@ -2031,3 +2031,1052 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.03-23.53.03:234][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.03-23.53.03:234][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.03-23.53.03:235][390]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.03-23.54.38:707][648]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2025.12.03-23.54.38:723][648]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2025.12.03-23.54.38:750][649]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2025.12.03-23.54.56:839][735]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> F_plantSpecies
+[2025.12.03-23.54.57:005][735]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2025.12.03-23.54.57:708][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.54.57:770][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.03-23.54.57:770][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.03-23.54.57:780][769]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.03-23.54.57:780][769]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies517480A049683470F48C3FAEF4071D0B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.03-23.54.57:947][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.892 ms (total: 3.66 sec)
+[2025.12.03-23.54.57:996][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.54.57:996][769]LogContentValidation: Enabled validators:
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.54.57:996][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.54.57:996][769]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.03-23.55.02:382][ 32]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/plant/F_plantSpecies.F_plantSpecies
+[2025.12.03-23.55.27:135][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.55.27:205][481]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.03-23.55.27:205][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.03-23.55.27:216][481]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.03-23.55.27:216][481]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesDFD104BF4F43FBF95ECD479CFEE4ED4D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.03-23.55.27:227][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.924 ms (total: 3.75 sec)
+[2025.12.03-23.55.27:285][481]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.55.27:285][481]LogContentValidation: Enabled validators:
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.55.27:285][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.55.27:285][481]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.03-23.56.51:085][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.56.51:146][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.03-23.56.51:146][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.03-23.56.51:156][330]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.03-23.56.51:157][330]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies5EB15D164E8AF216C3AEE484DB99813B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.03-23.56.51:168][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.043 ms (total: 3.83 sec)
+[2025.12.03-23.56.51:228][330]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.56.51:228][330]LogContentValidation: Enabled validators:
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.56.51:228][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.56.51:228][330]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.03-23.57.33:101][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1688.258423
+[2025.12.03-23.57.33:266][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-23.57.33:267][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1688.406738, Update Interval: 304.544830
+[2025.12.03-23.58.14:420][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.58.14:478][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.03-23.58.14:478][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.03-23.58.14:489][287]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.03-23.58.14:490][287]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies73200A7C4A79FB5E1FA437901C4D3131.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.03-23.58.14:500][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.412 ms (total: 3.91 sec)
+[2025.12.03-23.58.14:561][287]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.58.14:561][287]LogContentValidation: Enabled validators:
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.58.14:561][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.58.14:561][287]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.03-23.59.32:359][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-23.59.32:418][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.03-23.59.32:418][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.03-23.59.32:428][911]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.03-23.59.32:429][911]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesAA82C3BF42CF46E7652B9DA50ACA0376.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.03-23.59.32:438][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.759 ms (total: 3.99 sec)
+[2025.12.03-23.59.32:499][911]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-23.59.32:499][911]LogContentValidation: Enabled validators:
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-23.59.32:499][911]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-23.59.32:499][911]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.01.24:172][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.01.24:232][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.01.24:232][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.01.24:243][353]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.01.24:244][353]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies2259DD5E4EA42210CEC922876B4FF85B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.01.24:253][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.678 ms (total: 4.07 sec)
+[2025.12.04-00.01.24:313][353]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.01.24:313][353]LogContentValidation: Enabled validators:
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.01.24:313][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.01.24:313][353]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.01.41:540][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.01.41:590][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.01.41:590][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.01.41:601][364]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.01.41:601][364]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesEF4C652846FE1A1167C5DAB6A41BB3BE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.01.41:612][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.332 ms (total: 4.15 sec)
+[2025.12.04-00.01.41:666][364]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.01.41:666][364]LogContentValidation: Enabled validators:
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.01.41:666][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.01.41:666][364]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.01.42:998][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.04-00.01.53:902][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.01.53:966][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.01.53:966][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.01.53:978][ 29]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.01.53:979][ 29]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesA6B62C47479BE5E6C27C0E8DFDE677EC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.01.53:988][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.727 ms (total: 4.23 sec)
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: Enabled validators:
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.01.54:046][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.01.54:046][ 29]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.02.02:117][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.02.02:189][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.02.02:189][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.02.02:201][503]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.02.02:202][503]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies38A0ECBE4B8E2FA824E2B4BBECC959E1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.02.02:212][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.693 ms (total: 4.33 sec)
+[2025.12.04-00.02.02:281][503]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.02.02:281][503]LogContentValidation: Enabled validators:
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.02.02:281][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.02.02:281][503]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.03.30:029][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2045.186890
+[2025.12.04-00.03.30:214][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.03.30:214][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2045.354004, Update Interval: 332.930695
+[2025.12.04-00.04.09:012][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.04.09:078][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.04.09:078][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.04.09:090][850]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.04.09:091][850]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesC2FEA64A4AC3076313CC428B7E205A54.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.04.09:101][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.025 ms (total: 4.42 sec)
+[2025.12.04-00.04.09:164][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.04.09:164][850]LogContentValidation: Enabled validators:
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.04.09:164][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.04.09:164][850]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.05.58:998][818]LogSlate: Window 'Pick Row Structure' being destroyed
+[2025.12.04-00.05.59:012][818]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2025.12.04-00.05.59:022][818]LogContentBrowser: Creating deferred item: NewDataTable
+[2025.12.04-00.05.59:045][818]LogAutomationController: Ignoring very large delta of 9.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.04-00.05.59:055][819]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2025.12.04-00.06.10:463][504]LogContentBrowser: Attempting asset rename: NewDataTable -> plantSpeciesData
+[2025.12.04-00.06.10:590][504]LogContentBrowser: End creating deferred item NewDataTable
+[2025.12.04-00.06.11:313][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.06.11:370][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.06.11:370][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.06.11:382][540]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.06.11:382][540]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesDataD63F4E9B46AB933D9B7F6DB1B567B402.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.06.11:555][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.894 ms (total: 4.66 sec)
+[2025.12.04-00.06.11:615][540]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.06.11:616][540]LogContentValidation: Enabled validators:
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.06.11:616][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.06.11:616][540]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.06.19:050][986]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/plant/plantSpeciesData.plantSpeciesData
+[2025.12.04-00.06.51:789][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.06.51:852][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.06.51:852][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.06.51:860][922]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.06.51:861][922]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData67130DD64C73404A779BADBB85192AE8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.06.51:871][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.111 ms (total: 4.74 sec)
+[2025.12.04-00.06.51:931][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.06.51:931][922]LogContentValidation: Enabled validators:
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.06.51:931][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.06.51:931][922]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.07.00:063][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.04-00.07.00:186][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.07.00:247][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.07.00:247][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.07.00:261][406]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.07.00:261][406]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData8508931846978EEDD721199240A671BF.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.07.00:273][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.380 ms (total: 4.83 sec)
+[2025.12.04-00.07.00:328][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.07.00:328][406]LogContentValidation: Enabled validators:
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.07.00:328][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.07.00:328][406]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.07.04:675][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.07.04:728][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.07.04:728][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.07.04:738][660]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.07.04:739][660]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData5CA376B44302CEF2AD786C80A76A1275.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.07.04:749][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.490 ms (total: 4.90 sec)
+[2025.12.04-00.07.04:812][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.07.04:812][660]LogContentValidation: Enabled validators:
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.07.04:812][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.07.04:812][660]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.07.40:476][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.07.40:541][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.07.40:541][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.07.40:552][793]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.07.40:552][793]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData3477A58E46D27C8562B720B5795FED70.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.07.40:564][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.350 ms (total: 4.99 sec)
+[2025.12.04-00.07.40:625][793]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.07.40:625][793]LogContentValidation: Enabled validators:
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.07.40:625][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.07.40:625][793]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.08.02:526][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.08.02:590][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.08.02:590][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.08.02:605][672]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.08.02:605][672]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData015BD0F3486027DF9A7CF1A16F38D4B6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.08.02:614][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.292 ms (total: 5.08 sec)
+[2025.12.04-00.08.02:671][672]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.08.02:671][672]LogContentValidation: Enabled validators:
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.08.02:671][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.08.02:671][672]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.08.34:360][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.08.34:430][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.08.34:430][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.08.34:432][539]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.08.34:433][539]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData10277AD145086429CAA694A7D1DA3535.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.08.34:442][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.787 ms (total: 5.16 sec)
+[2025.12.04-00.08.34:509][539]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.08.34:509][539]LogContentValidation: Enabled validators:
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.08.34:509][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.08.34:509][539]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.09.13:273][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.09.13:351][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.09.13:351][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.09.13:377][834]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.09.13:378][834]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plant4619C6C14EFE5F8B81246B81D0ED3EE7.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.09.13:393][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.577 ms (total: 5.28 sec)
+[2025.12.04-00.09.13:472][834]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.09.13:472][834]LogContentValidation: Enabled validators:
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.09.13:472][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.09.13:472][834]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.09.27:716][687]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plant.uasset: [Compiler] Variable speciesData is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2025.12.04-00.09.30:486][850]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plant.uasset: [Compiler] Variable speciesData is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2025.12.04-00.09.30:547][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.04-00.09.38:396][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.04-00.09.42:685][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.09.42:744][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.09.42:744][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.09.42:772][557]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.09.42:773][557]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plant53460D9E4981CA671318EE887FA70C1C.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.09.42:782][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.080 ms (total: 5.38 sec)
+[2025.12.04-00.09.42:847][557]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.09.42:847][557]LogContentValidation: Enabled validators:
+[2025.12.04-00.09.42:847][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.09.42:847][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.09.42:848][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.09.42:848][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.09.42:848][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.09.42:848][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.09.42:848][557]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.09.45:810][726]LogEditorTransaction: Undo Add Node
+[2025.12.04-00.09.48:838][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2423.996094
+[2025.12.04-00.09.49:021][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.09.49:021][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2424.162842, Update Interval: 308.868073
+[2025.12.04-00.09.59:096][491]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plant.uasset: [Compiler] Variable speciesData is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2025.12.04-00.10.01:749][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.04-00.10.11:157][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.10.11:219][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.10.11:219][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.10.11:239][182]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.10.11:239][182]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantF4A34BAE46DDD05E144779A8DEAF9511.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.10.11:248][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.658 ms (total: 5.47 sec)
+[2025.12.04-00.10.11:306][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.10.11:307][182]LogContentValidation: Enabled validators:
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.10.11:307][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.10.11:307][182]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.10.30:448][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.04-00.11.12:006][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.04-00.11.12:140][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.11.12:208][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.11.12:208][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.11.12:228][ 82]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.11.12:228][ 82]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plant546AACFE4B9AECB0AFD1B3B6BA7C939F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.11.12:238][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.412 ms (total: 5.57 sec)
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: Enabled validators:
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.11.12:301][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.11.12:301][ 82]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.12.01:068][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.12.01:129][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.12.01:129][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.12.01:142][997]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.12.01:143][997]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner8DABF738419D72FCDB89C196E78782B6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.12.01:152][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.296 ms (total: 5.65 sec)
+[2025.12.04-00.12.01:210][997]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.12.01:210][997]LogContentValidation: Enabled validators:
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.12.01:210][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.12.01:210][997]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.12.06:948][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.12.07:000][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.12.07:000][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.12.07:016][332]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.12.07:017][332]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner57801D764B7D0111DF87898BDD08282C.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.12.07:027][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.225 ms (total: 5.73 sec)
+[2025.12.04-00.12.07:088][332]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.12.07:088][332]LogContentValidation: Enabled validators:
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.12.07:088][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.12.07:088][332]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.12.48:099][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.12.48:167][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.12.48:167][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.12.48:180][743]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.12.48:181][743]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerD7ED8F764284F9A3A23CE88D8B756F3F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.12.48:191][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.235 ms (total: 5.82 sec)
+[2025.12.04-00.12.48:246][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.12.48:246][743]LogContentValidation: Enabled validators:
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.12.48:246][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.12.48:246][743]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.12.50:736][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.12.04-00.12.52:053][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.04-00.12.52:967][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.12.53:031][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.12.53:031][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.12.53:045][  9]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.12.53:046][  9]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner1D9367894C6D4494266F0FA9950F482E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.12.53:055][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.072 ms (total: 5.91 sec)
+[2025.12.04-00.12.53:113][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.12.53:113][  9]LogContentValidation: Enabled validators:
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.12.53:113][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.12.53:113][  9]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.13.01:489][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.04-00.13.01:611][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.13.01:672][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.13.01:672][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.13.01:686][505]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.13.01:688][505]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner2E8A78EF4E6EF0AB256D47ADFC3CB8B6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.13.01:696][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.696 ms (total: 6.00 sec)
+[2025.12.04-00.13.01:760][505]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.13.01:760][505]LogContentValidation: Enabled validators:
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.13.01:760][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.13.01:760][505]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.14.25:626][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.14.25:695][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.14.25:695][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.14.25:709][479]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.14.25:710][479]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerDC8FA85E496E00B935AFBE958AC868F0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.14.25:719][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.323 ms (total: 6.09 sec)
+[2025.12.04-00.14.25:774][479]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.14.25:774][479]LogContentValidation: Enabled validators:
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.14.25:774][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.14.25:774][479]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.14.40:433][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.14.40:497][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.14.40:497][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.14.40:514][329]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.14.40:514][329]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner04841FDB42933A7D67CAD09558CF1297.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.14.40:524][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.696 ms (total: 6.18 sec)
+[2025.12.04-00.14.40:575][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.14.40:575][329]LogContentValidation: Enabled validators:
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.14.40:575][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.14.40:575][329]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.15.48:750][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2783.911133
+[2025.12.04-00.15.49:747][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.15.49:747][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2784.584961, Update Interval: 326.371643
+[2025.12.04-00.15.59:847][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.04-00.15.59:849][646]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/plant/plantTestLevel' took 0.031
+[2025.12.04-00.15.59:851][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.15.59:851][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.15.59:867][646]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/plant/BP_plantSpawner_Auto1
+[2025.12.04-00.15.59:867][646]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner_Auto131A51186473B8F6CEADEAC98BAF9CE33.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Autosaves/Game/plant/BP_plantSpawner_Auto1.uasset'
+[2025.12.04-00.15.59:868][646]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.12.04-00.17.48:450][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.17.48:509][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.17.48:509][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.17.48:525][749]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.17.48:526][749]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpecies26EB2EF441E69F11E791558462A0237E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.17.48:536][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.174 ms (total: 6.27 sec)
+[2025.12.04-00.17.48:588][749]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.17.48:588][749]LogContentValidation: Enabled validators:
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.17.48:588][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.17.48:589][749]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.17.53:153][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.17.53:212][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/F_plantSpecies] ([1] browsable assets)...
+[2025.12.04-00.17.53:212][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/F_plantSpecies]
+[2025.12.04-00.17.53:223][  8]LogSavePackage: Moving output files for package: /Game/plant/F_plantSpecies
+[2025.12.04-00.17.53:224][  8]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_plantSpeciesBF6263B2443D2B4DF3E99B93F0F13478.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset'
+[2025.12.04-00.17.53:234][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.391 ms (total: 6.35 sec)
+[2025.12.04-00.17.53:295][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.17.53:295][  8]LogContentValidation: Enabled validators:
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.17.53:295][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.17.53:295][  8]AssetCheck: /Game/plant/F_plantSpecies Validating asset
+[2025.12.04-00.17.55:629][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.04-00.17.55:754][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.17.55:808][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.17.55:808][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.17.55:827][142]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.17.55:827][142]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantFC0721114870809FAEB664A11419B6B1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.17.55:829][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.17.55:829][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.17.55:842][142]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.17.55:842][142]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner2A3CE8D049551E573C8C7CAD828F2396.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.17.55:843][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.17.55:843][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.17.55:847][142]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.17.55:847][142]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData64586197424635D074282E8C49475551.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.17.55:858][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.917 ms (total: 6.45 sec)
+[2025.12.04-00.17.55:917][142]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.04-00.17.55:917][142]LogContentValidation: Enabled validators:
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.17.55:917][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.17.55:917][142]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.17.55:917][142]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.17.55:917][142]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.19.31:816][749]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plantSpawner.uasset: [Compiler] In use pin  Spawn Transform Rotation Yaw  no longer exists on node  SpawnActor BP Plant . Please refresh node or break links to remove pin.
+[2025.12.04-00.19.31:817][749]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plantSpawner.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row  to imply a specific type.
+[2025.12.04-00.19.31:827][749]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.04-00.19.31:888][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.04-00.21.11:423][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.21.11:487][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.21.11:487][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.21.11:503][175]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.21.11:505][175]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner15265EF849F423C50A3449A7681BCE11.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.21.11:515][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.197 ms (total: 6.54 sec)
+[2025.12.04-00.21.11:569][175]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.21.11:569][175]LogContentValidation: Enabled validators:
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.21.11:569][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.21.11:570][175]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.21.46:649][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3141.794189
+[2025.12.04-00.21.46:817][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.21.46:817][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3141.944092, Update Interval: 339.863281
+[2025.12.04-00.21.51:951][554]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\plant\BP_plantSpawner.uasset: [Compiler] In use pin  Spawn Transform Rotation Yaw  no longer exists on node  SpawnActor BP Plant . Please refresh node or break links to remove pin.
+[2025.12.04-00.21.52:008][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.04-00.21.53:203][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.04-00.21.53:330][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.21.53:391][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.21.53:391][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.21.53:408][621]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.21.53:408][621]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerF4308E48421BAE1FAC1980BCA030FBF8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.21.53:419][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.005 ms (total: 6.63 sec)
+[2025.12.04-00.21.53:487][621]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.21.53:487][621]LogContentValidation: Enabled validators:
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.21.53:487][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.21.53:487][621]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.23.46:785][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.23.46:849][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.23.46:849][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.23.46:865][324]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.23.46:867][324]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner2CE963D240D5C0BAA4EE56935FF4954D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.23.46:877][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.616 ms (total: 6.73 sec)
+[2025.12.04-00.23.46:928][324]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.23.46:928][324]LogContentValidation: Enabled validators:
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.23.46:928][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.23.46:928][324]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.23.48:239][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.04-00.23.49:062][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.04-00.23.49:702][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.23.49:758][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.23.49:758][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.23.49:785][472]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.23.49:786][472]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerDEE5E44048F7FC4CB17FEB93A6A0F2E1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.23.49:798][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.813 ms (total: 6.82 sec)
+[2025.12.04-00.23.49:860][472]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.23.49:860][472]LogContentValidation: Enabled validators:
+[2025.12.04-00.23.49:860][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.23.49:861][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.23.49:861][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.23.49:861][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.23.49:861][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.23.49:861][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.23.49:861][472]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.25.32:387][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.25.32:457][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.25.32:457][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.25.32:476][584]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.25.32:477][584]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner86E3F5A6414148FA0C07169910CD9F2A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.25.32:486][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.159 ms (total: 6.92 sec)
+[2025.12.04-00.25.32:548][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.25.32:548][584]LogContentValidation: Enabled validators:
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.25.32:548][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.25.32:548][584]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.26.15:478][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.04-00.26.15:481][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/plant/plantTestLevel' took 0.029
+[2025.12.04-00.26.15:482][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.26.15:482][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.26.15:505][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/plant/BP_plantSpawner_Auto2
+[2025.12.04-00.26.15:505][129]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner_Auto2EC34DCB54F1696162D4CF08CE7831C57.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Autosaves/Game/plant/BP_plantSpawner_Auto2.uasset'
+[2025.12.04-00.26.15:507][129]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.12.04-00.27.26:959][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.27.27:027][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.27.27:027][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.27.27:056][349]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.27.27:057][349]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner736F22B34B458F14D21F9B85A677C5B6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.27.27:069][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.086 ms (total: 7.03 sec)
+[2025.12.04-00.27.27:124][349]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.27.27:124][349]LogContentValidation: Enabled validators:
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.27.27:124][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.27.27:124][349]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.28.00:108][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3515.249268
+[2025.12.04-00.28.00:291][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.28.00:291][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3515.415527, Update Interval: 328.534210
+[2025.12.04-00.28.34:082][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.28.34:141][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.28.34:141][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.28.34:160][268]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.28.34:161][268]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner0F30A84B452E8779C6CA6C97093826CC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.28.34:171][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.956 ms (total: 7.12 sec)
+[2025.12.04-00.28.34:230][268]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.28.34:230][268]LogContentValidation: Enabled validators:
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.28.34:230][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.28.34:230][268]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.29.50:670][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.29.50:725][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.29.50:725][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.29.50:745][816]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.29.50:745][816]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerD0873B2E457B7889AD89259FB18362FD.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.29.50:755][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.997 ms (total: 7.21 sec)
+[2025.12.04-00.29.50:812][816]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.29.50:812][816]LogContentValidation: Enabled validators:
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.29.50:812][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.29.50:812][816]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.29.52:832][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.29.52:891][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.29.52:891][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.29.52:911][931]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.29.52:911][931]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner920E9D1F425FF91DB36F139AE765D88D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.29.52:924][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.010 ms (total: 7.30 sec)
+[2025.12.04-00.29.52:989][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.29.52:989][931]LogContentValidation: Enabled validators:
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.29.52:989][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.29.52:989][931]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.29.56:442][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.04-00.30.30:908][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.30.30:967][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.30.30:967][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.30.30:987][136]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.30.30:988][136]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner073BB22147EF08D091A27C95325D717F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.30.31:000][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.832 ms (total: 7.39 sec)
+[2025.12.04-00.30.31:063][136]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.30.31:063][136]LogContentValidation: Enabled validators:
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.30.31:063][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.30.31:063][136]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.31.19:788][ 23]LogDerivedDataCache: C:/Users/skojo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.04-00.31.51:436][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.04-00.31.51:570][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.31.51:631][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.31.51:631][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.31.51:652][920]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.31.51:653][920]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner77456CAD42A18DA2CC8CDFB301A340F4.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.31.51:663][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.651 ms (total: 7.48 sec)
+[2025.12.04-00.31.51:718][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.31.51:718][920]LogContentValidation: Enabled validators:
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.31.51:718][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.31.51:718][920]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.33.54:140][238]LogEditorTransaction: Undo Promote To Variable
+[2025.12.04-00.34.11:050][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.34.11:115][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.34.11:115][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.34.11:135][221]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.34.11:136][221]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner76F1ACE344C8C20AAE19C4AF59961BC1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.34.11:147][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.244 ms (total: 7.58 sec)
+[2025.12.04-00.34.11:206][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.34.11:206][221]LogContentValidation: Enabled validators:
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.34.11:206][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.34.11:207][221]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.34.24:830][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3899.985840
+[2025.12.04-00.34.25:014][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.34.25:014][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3900.152588, Update Interval: 324.936066
+[2025.12.04-00.34.43:820][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.34.43:884][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.34.43:884][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.34.43:907][155]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.34.43:909][155]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner71440DD440F0D9E169482A87804A0D14.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.34.43:918][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.643 ms (total: 7.68 sec)
+[2025.12.04-00.34.43:978][155]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.34.43:978][155]LogContentValidation: Enabled validators:
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.34.43:978][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.34.43:978][155]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.35.02:165][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.35.02:233][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.35.02:234][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.35.02:253][224]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.35.02:253][224]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawnerB90570D44E20A010CC31108F9DF377D5.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.35.02:263][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.402 ms (total: 7.78 sec)
+[2025.12.04-00.35.02:322][224]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.35.02:323][224]LogContentValidation: Enabled validators:
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.35.02:323][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.35.02:323][224]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.35.30:053][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.35.30:116][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.35.30:116][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.35.30:135][836]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.35.30:136][836]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner63F2FA744836570A721C46A5552D2FDE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.35.30:146][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.254 ms (total: 7.87 sec)
+[2025.12.04-00.35.30:206][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.35.30:206][836]LogContentValidation: Enabled validators:
+[2025.12.04-00.35.30:206][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.35.30:206][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.35.30:206][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.35.30:206][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.35.30:207][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.35.30:207][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.35.30:207][836]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.36.39:422][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.36.39:486][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.36.39:486][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.36.39:507][981]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.36.39:507][981]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner589638BF48DD9F9A1F8FA7B59A0DF70D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.36.39:518][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.784 ms (total: 7.96 sec)
+[2025.12.04-00.36.39:581][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.36.39:581][981]LogContentValidation: Enabled validators:
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.36.39:581][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.36.39:581][981]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.36.40:159][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.04-00.40.25:596][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4260.750488
+[2025.12.04-00.40.25:780][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-00.40.25:780][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4260.917480, Update Interval: 335.124359
+[2025.12.04-00.40.27:201][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.04-00.42.13:615][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.42.13:680][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.42.13:680][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.42.13:704][811]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.42.13:704][811]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner35B2AC60454660A7C08326B8C9FE3C1B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.42.13:715][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.247 ms (total: 8.06 sec)
+[2025.12.04-00.42.13:780][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.42.13:780][811]LogContentValidation: Enabled validators:
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.42.13:781][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.42.13:781][811]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.42.14:265][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.04-00.42.15:025][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.42.15:081][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.42.15:081][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.42.15:101][870]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.42.15:102][870]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner55B8090C4A943F1DC0B4B7BFE944EF0D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.42.15:113][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.371 ms (total: 8.15 sec)
+[2025.12.04-00.42.15:169][870]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.42.15:169][870]LogContentValidation: Enabled validators:
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.42.15:169][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.42.15:169][870]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.43.38:979][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.04-00.43.39:097][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.43.39:164][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.43.39:164][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.43.39:184][427]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.43.39:184][427]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantBF55C4AA40597C25A40DCB8EE38012D1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.43.39:194][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.191 ms (total: 8.25 sec)
+[2025.12.04-00.43.39:255][427]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.43.39:255][427]LogContentValidation: Enabled validators:
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.43.39:255][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.43.39:255][427]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.43.55:701][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.04-00.44.03:526][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.44.03:586][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/plantSpeciesData] ([1] browsable assets)...
+[2025.12.04-00.44.03:586][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/plantSpeciesData]
+[2025.12.04-00.44.03:597][869]LogSavePackage: Moving output files for package: /Game/plant/plantSpeciesData
+[2025.12.04-00.44.03:598][869]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/plantSpeciesData7DEC226B4F0FF96E4D54389F748824EC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset'
+[2025.12.04-00.44.03:607][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.150 ms (total: 8.33 sec)
+[2025.12.04-00.44.03:670][869]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.44.03:670][869]LogContentValidation: Enabled validators:
+[2025.12.04-00.44.03:670][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.44.03:670][869]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.44.03:670][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.44.03:670][869]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.44.03:671][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.44.03:671][869]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.44.03:671][869]AssetCheck: /Game/plant/plantSpeciesData Validating asset
+[2025.12.04-00.44.12:440][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.44.12:502][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.44.12:502][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.44.12:523][382]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.44.12:525][382]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plant49E6613449A079367A4C38A3C1F7B7D1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.44.12:534][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.541 ms (total: 8.42 sec)
+[2025.12.04-00.44.12:596][382]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.44.12:596][382]LogContentValidation: Enabled validators:
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.44.12:596][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.44.12:596][382]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.44.14:050][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.04-00.44.14:061][452]LogPlayLevel: [PlayLevel] Compiling BP_plant before play...
+[2025.12.04-00.44.14:139][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.04-00.44.14:143][452]LogPlayLevel: PlayLevel: Blueprint regeneration took 86 ms (1 blueprints)
+[2025.12.04-00.44.14:143][452]LogPlayLevel: Creating play world package: /Game/plant/UEDPIE_0_plantTestLevel
+[2025.12.04-00.44.14:144][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2025.12.04-00.44.14:144][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/plant/plantTestLevel.plantTestLevel to /Game/plant/UEDPIE_0_plantTestLevel.plantTestLevel (0.001340s)
+[2025.12.04-00.44.14:169][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.04-00.44.14:170][452]LogChaosDD: Creating Chaos Debug Draw Scene for world plantTestLevel
+[2025.12.04-00.44.14:172][452]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2025.12.04-00.44.14:172][452]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.04-00.44.14:173][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.04-00.44.14:173][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.04-00.44.14:173][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.04-00.44.14:173][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.04-00.44.14:173][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.04-00.44.14:175][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.04-00.44.14:254][452]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.04-00.44.14:255][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.04-00.44.14:255][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.04-00.44.14:255][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.04-00.44.14:256][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.04-00.44.14:256][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.04-00.44.14:258][452]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.04-00.44.14:258][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.04-00.44.14:258][452]LogAudio: Display: Audio Device (ID: 7) registered with world 'plantTestLevel'.
+[2025.12.04-00.44.14:258][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.04-00.44.14:258][452]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.04-00.44.14:263][452]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.04-00.44.14:264][452]LogWorld: Bringing World /Game/plant/UEDPIE_0_plantTestLevel.plantTestLevel up for play (max tick rate 60) at 2025.12.04-00.44.14
+[2025.12.04-00.44.14:264][452]LogWorld: Bringing up level for play took: 0.000656
+[2025.12.04-00.44.14:267][452]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.12.04-00.44.14:272][452]LogBlueprintUserMessages: [BP_plant_C_0] example
+[2025.12.04-00.44.14:274][452]PIE: Server logged in
+[2025.12.04-00.44.14:276][452]PIE: Play in editor total start time 0.221 seconds.
+[2025.12.04-00.44.14:328][453]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.04-00.44.24:060][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-00.44.24:060][ 31]LogWorld: BeginTearingDown for /Game/plant/UEDPIE_0_plantTestLevel
+[2025.12.04-00.44.24:061][ 31]LogWorld: UWorld::CleanupWorld for plantTestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.44.24:061][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.44.24:069][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.04-00.44.24:074][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.44.24:102][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-00.44.24:102][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.04-00.44.24:102][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.04-00.44.24:104][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.04-00.44.24:111][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.04-00.44.24:149][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.12.04-00.44.33:059][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.44.33:117][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plant] ([2] browsable assets)...
+[2025.12.04-00.44.33:117][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plant]
+[2025.12.04-00.44.33:136][544]LogSavePackage: Moving output files for package: /Game/plant/BP_plant
+[2025.12.04-00.44.33:136][544]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plant5BEFE5B04E72A5927D2C5C80795D6244.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset'
+[2025.12.04-00.44.33:148][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.186 ms (total: 8.51 sec)
+[2025.12.04-00.44.33:213][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.44.33:213][544]LogContentValidation: Enabled validators:
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.44.33:213][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.44.33:213][544]AssetCheck: /Game/plant/BP_plant Validating asset
+[2025.12.04-00.46.14:705][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.04-00.46.16:190][139]LogSlate: Window 'Save Content' being destroyed
+[2025.12.04-00.46.16:329][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-00.46.16:400][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/BP_plantSpawner] ([2] browsable assets)...
+[2025.12.04-00.46.16:401][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/BP_plantSpawner]
+[2025.12.04-00.46.16:421][139]LogSavePackage: Moving output files for package: /Game/plant/BP_plantSpawner
+[2025.12.04-00.46.16:421][139]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_plantSpawner2D1406B84C0FF358609797BD53D14BEA.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset'
+[2025.12.04-00.46.16:435][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.842 ms (total: 8.62 sec)
+[2025.12.04-00.46.16:473][139]LogStall: Shutdown...
+[2025.12.04-00.46.16:473][139]LogStall: Shutdown complete.
+[2025.12.04-00.46.16:513][139]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.46.16:513][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.46.16:589][139]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.04-00.46.16:589][139]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.46.16:589][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.46.16:653][139]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.04-00.46.16:653][139]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.46.16:653][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.46.16:730][139]LogSlate: Window 'VerticalJam2025 - Unreal Editor' being destroyed
+[2025.12.04-00.46.16:732][139]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.12.04-00.46.16:975][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-00.46.16:975][139]LogContentValidation: Enabled validators:
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-00.46.16:975][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-00.46.16:975][139]AssetCheck: /Game/plant/BP_plantSpawner Validating asset
+[2025.12.04-00.46.17:075][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.04-00.46.17:094][139]LogAutomationController: Ignoring very large delta of 2.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.04-00.46.17:095][139]Cmd: QUIT_EDITOR
+[2025.12.04-00.46.17:095][140]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.04-00.46.17:102][140]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.04-00.46.17:103][140]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.04-00.46.17:103][140]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.04-00.46.17:104][140]LogWorld: UWorld::CleanupWorld for plantTestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.46.17:105][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.46.17:119][140]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.04-00.46.17:119][140]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.04-00.46.17:119][140]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.04-00.46.17:129][140]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-00.46.17:129][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-00.46.17:133][140]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.04-00.46.17:133][140]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.04-00.46.17:135][140]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.04-00.46.18:022][140]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.04-00.46.18:022][140]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.04-00.46.18:022][140]LogAudio: Display: Audio Device unregistered from world 'plantTestLevel'.
+[2025.12.04-00.46.18:022][140]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.04-00.46.18:022][140]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.04-00.46.18:040][140]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.04-00.46.18:132][140]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.04-00.46.18:132][140]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.04-00.46.18:138][140]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.04-00.46.18:138][140]LogExit: Preparing to exit.
+[2025.12.04-00.46.18:198][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:203][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:204][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:204][140]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.18:204][140]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.04-00.46.19:475][140]LogEditorDataStorage: Deinitializing
+[2025.12.04-00.46.19:803][140]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.04-00.46.19:868][140]LogExit: Editor shut down
+[2025.12.04-00.46.19:889][140]LogExit: Transaction tracking system shut down
+[2025.12.04-00.46.20:399][140]LogExit: Object subsystem successfully closed.
+[2025.12.04-00.46.20:488][140]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.04-00.46.20:830][140]LogMemoryProfiler: Shutdown
+[2025.12.04-00.46.20:830][140]LogNetworkingProfiler: Shutdown
+[2025.12.04-00.46.20:830][140]LoadingProfiler: Shutdown
+[2025.12.04-00.46.20:830][140]LogTimingProfiler: Shutdown
+[2025.12.04-00.46.20:831][140]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.04-00.46.20:831][140]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.04-00.46.21:546][140]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.04-00.46.21:594][140]RenderDocPlugin: plugin has been unloaded.
+[2025.12.04-00.46.21:631][140]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.04-00.46.21:632][140]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C6613E6-43AE-F6D1-11A7-5096E2751D50%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=a5e8f644457d776d8fa85d8cf3dc5c46%7C055731bba8054ae5afb1fe9856ae38f7%7C718983c6-698b-4fd0-81b7-960661b0693c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.04-00.46.22:233][140]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.04-00.46.22:233][140]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.04-00.46.22:234][140]LogXGEController: Cleaning working directory: C:/Users/skojo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.04-00.46.22:238][140]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.04-00.46.22:238][140]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.04-00.46.22:238][140]LogPakFile: Destroying PakPlatformFile
+[2025.12.04-00.46.23:089][140]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.04-00.46.23:224][140]LogExit: Exiting.
+[2025.12.04-00.46.23:250][140]Log file closed, 12/04/25 00:46:23
