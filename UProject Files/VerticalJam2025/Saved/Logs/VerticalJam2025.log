@@ -2079,3 +2079,1335 @@ Make sure '/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets.AC_attackHorne
 [2025.12.05-23.21.45:122][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3949.429199
 [2025.12.05-23.21.46:127][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.05-23.21.46:128][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3950.092773, Update Interval: 337.850891
+[2025.12.05-23.28.05:173][393]LogContentBrowser: Deferred new asset file creation: AC_locatorExecuter_Child
+[2025.12.05-23.28.05:191][393]LogContentBrowser: Creating deferred item: AC_locatorExecuter_Child
+[2025.12.05-23.28.05:212][394]LogContentBrowser: Renaming the item being created (Deferred Item: AC_locatorExecuter_Child).
+[2025.12.05-23.28.11:143][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4335.426758
+[2025.12.05-23.28.11:325][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.28.11:325][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4335.593262, Update Interval: 354.570770
+[2025.12.05-23.28.19:187][233]LogContentBrowser: Attempting asset rename: AC_locatorExecuter_Child -> AC_scareWoodpeckers
+[2025.12.05-23.28.19:315][233]LogContentBrowser: End creating deferred item AC_locatorExecuter_Child
+[2025.12.05-23.28.20:446][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.05-23.28.20:586][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.28.20:650][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.28.20:650][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.28.20:661][297]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.28.20:661][297]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers0E25A65149176F9AC9EDDE8858041103.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.28.20:867][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.752 ms (total: 5.17 sec)
+[2025.12.05-23.28.20:926][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.28.20:926][297]LogContentValidation: Enabled validators:
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.28.20:926][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.28.20:926][297]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.28.23:533][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers
+[2025.12.05-23.28.23:533][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.05-23.28.29:770][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.05-23.28.29:889][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.28.29:950][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.28.29:950][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.28.29:961][796]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.28.29:961][796]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers91873B2B458B94AAFF44A886FF6B2227.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.28.29:971][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.656 ms (total: 5.25 sec)
+[2025.12.05-23.28.30:032][796]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.28.30:032][796]LogContentValidation: Enabled validators:
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.28.30:032][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.28.30:032][796]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.28.31:463][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.05-23.28.31:588][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.28.31:653][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.28.31:653][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.28.31:662][880]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.28.31:663][880]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers90B4E86943AED2DA50185F87E974AF92.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.28.31:673][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.071 ms (total: 5.34 sec)
+[2025.12.05-23.28.31:732][880]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.28.31:732][880]LogContentValidation: Enabled validators:
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.28.31:732][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.28.31:733][880]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.29.02:712][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.05-23.29.02:827][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.29.02:888][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.29.02:888][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.29.02:901][722]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.29.02:902][722]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers153C15A94141F24766D9F29A35C27E23.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.29.02:913][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.372 ms (total: 5.42 sec)
+[2025.12.05-23.29.02:976][722]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.29.02:976][722]LogContentValidation: Enabled validators:
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.29.02:976][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.29.02:976][722]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.29.43:382][ 93]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2025.12.05-23.29.43:392][ 93]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2025.12.05-23.29.43:405][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2025.12.05-23.29.49:774][476]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> behaviourLibrary
+[2025.12.05-23.29.49:916][476]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2025.12.05-23.29.50:391][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.05-23.29.50:583][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.29.50:652][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/behaviourLibrary] ([2] browsable assets)...
+[2025.12.05-23.29.50:652][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/behaviourLibrary]
+[2025.12.05-23.29.50:663][501]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/behaviourLibrary
+[2025.12.05-23.29.50:663][501]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/behaviourLibrary28E9BF8E4F7803A38D0248ACA3E76260.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/behaviourLibrary.uasset'
+[2025.12.05-23.29.50:843][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.374 ms (total: 5.68 sec)
+[2025.12.05-23.29.50:905][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.29.50:905][501]LogContentValidation: Enabled validators:
+[2025.12.05-23.29.50:905][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.29.50:905][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.29.50:905][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.29.50:906][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.29.50:906][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.29.50:906][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.29.50:906][501]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/behaviourLibrary Validating asset
+[2025.12.05-23.30.16:185][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.05-23.30.16:305][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.30.16:359][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.30.16:359][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.30.16:383][  4]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.30.16:384][  4]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornetsCFAE98EC4FC8F63350E0A89B51D3450B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.30.16:394][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.027 ms (total: 5.77 sec)
+[2025.12.05-23.30.16:452][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.30.16:452][  4]LogContentValidation: Enabled validators:
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.30.16:452][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.30.16:452][  4]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.30.39:511][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.05-23.30.39:627][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.30.39:676][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.30.39:676][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.30.39:697][379]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.30.39:698][379]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets9BB8F7CC469FC08F4DDF61A34289FBB2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.30.39:707][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.097 ms (total: 5.85 sec)
+[2025.12.05-23.30.39:767][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.30.39:767][379]LogContentValidation: Enabled validators:
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.30.39:767][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.30.39:767][379]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.31.04:331][838]LogEditorTransaction: Undo Add Node
+[2025.12.05-23.31.04:741][850]LogEditorTransaction: Undo Rename Function
+[2025.12.05-23.31.05:805][908]LogEditorTransaction: Undo Rename Parameter
+[2025.12.05-23.31.06:249][933]LogEditorTransaction: Undo Add Out Parameter
+[2025.12.05-23.31.07:849][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.05-23.31.07:974][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.31.08:035][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.31.08:035][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.31.08:057][ 26]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.31.08:058][ 26]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets141A65EA444AC58867E6C6BA9890BFB0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.31.08:070][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.140 ms (total: 5.95 sec)
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: Enabled validators:
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.31.08:137][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.31.08:137][ 26]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.31.16:084][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.05-23.31.27:654][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.05-23.31.27:751][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.31.27:815][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.31.27:815][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.31.27:827][190]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.31.27:827][190]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersD2FBDD7E4912FE9E7E2F1B9AD9E43777.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.31.27:837][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.384 ms (total: 6.03 sec)
+[2025.12.05-23.31.27:892][190]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.31.27:892][190]LogContentValidation: Enabled validators:
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.31.27:892][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.31.27:892][190]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.31.28:763][242]LogProperty: Warning: Illegal TEXT reference to a private object in external package (EdGraph /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets.AC_attackHornets:isLifeformHornet) from referencer (K2Node_MacroInstance /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers:selectTarget.K2Node_MacroInstance_1).  Import failed...
+[2025.12.05-23.31.28:763][242]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to '"/Script/Engine.EdGraph'isLifeformHornet'",GraphBlueprint="/Script/Engine.Blueprint'/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets.AC_attackHornets'",GraphGuid=485CB3DD4E1230C375C0C29AD2824BC4)'
+[2025.12.05-23.31.28:764][242]LogProperty: Warning: Illegal TEXT reference to a private object in external package (EdGraph /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets.AC_attackHornets:distance) from referencer (K2Node_MacroInstance /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers:selectTarget.K2Node_MacroInstance_2).  Import failed...
+[2025.12.05-23.31.28:764][242]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to '"/Script/Engine.EdGraph'distance'",GraphBlueprint="/Script/Engine.Blueprint'/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets.AC_attackHornets'",GraphGuid=2DDA86344F1B03FB1D555CB7971A2E2B)'
+[2025.12.05-23.31.33:871][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.31.33:927][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.31.33:928][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.31.33:940][520]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.31.33:941][520]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers4F3F8E4344BCCA01CC97F38DB8A86666.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.31.33:954][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.386 ms (total: 6.11 sec)
+[2025.12.05-23.31.34:015][520]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.31.34:015][520]LogContentValidation: Enabled validators:
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.31.34:015][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.31.34:016][520]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.31.40:293][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.05-23.31.46:996][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.05-23.31.47:115][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.31.47:207][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.31.47:207][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.31.47:227][292]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.31.47:228][292]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersE1A2C4FF49038D4B65ACB4AE0D6071AC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.31.47:241][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.615 ms (total: 6.24 sec)
+[2025.12.05-23.31.47:314][292]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.31.47:314][292]LogContentValidation: Enabled validators:
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.31.47:314][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.31.47:314][292]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.00:468][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.05-23.33.00:583][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.00:651][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.00:651][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.00:665][567]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.00:665][567]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers251D291E4907E876DB784CB97F02CEBD.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.00:675][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.058 ms (total: 6.33 sec)
+[2025.12.05-23.33.00:732][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.00:732][567]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.00:732][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.00:732][567]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.04:185][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.05-23.33.04:302][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.04:367][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.04:367][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.04:382][771]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.04:383][771]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersA0A3A81340F5E116F6D5E3B174CD2EC2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.04:393][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.945 ms (total: 6.42 sec)
+[2025.12.05-23.33.04:453][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.04:453][771]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.04:453][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.04:453][771]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.36:033][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.05-23.33.36:159][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.36:220][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.36:220][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.36:233][641]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.36:234][641]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers2DD816BF456FD2ED9D8BF89B82EB1487.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.36:245][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.837 ms (total: 6.51 sec)
+[2025.12.05-23.33.36:306][641]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.36:306][641]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.36:306][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.36:306][641]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.36:910][677]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] Could not find a variable named "sightRange" in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'.
+Make sure '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C' has been compiled for  Get sightRange
+[2025.12.05-23.33.36:910][677]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] Could not find a variable named "target" in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'.
+Make sure '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C' has been compiled for  Set target
+[2025.12.05-23.33.36:911][677]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] The property associated with  Sight Range  could not be found in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'
+[2025.12.05-23.33.36:911][677]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] The property associated with  Target  could not be found in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'
+[2025.12.05-23.33.36:939][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.05-23.33.38:011][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.38:074][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.38:074][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.38:090][731]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.38:091][731]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersB995B425403CDFC23FA4EBBE24C596F5.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.38:100][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.370 ms (total: 6.60 sec)
+[2025.12.05-23.33.38:161][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.38:161][731]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.38:161][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.38:161][731]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.42:083][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.05-23.33.47:575][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.05-23.33.47:717][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.47:789][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.47:789][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.47:808][285]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.47:809][285]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers019DF36D410F7D9B404409810EAF5304.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.47:833][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.141 ms (total: 6.71 sec)
+[2025.12.05-23.33.47:903][285]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.47:903][285]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.47:903][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.47:903][285]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.33.55:040][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.05-23.33.55:162][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.33.55:229][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.33.55:229][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.33.55:251][711]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.33.55:252][711]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersB0B6B33C465BC9F80A111FB62A1AB7B2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.33.55:264][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.574 ms (total: 6.82 sec)
+[2025.12.05-23.33.55:336][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.33.55:336][711]LogContentValidation: Enabled validators:
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.33.55:336][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.33.55:337][711]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.34.15:989][948]LogBlueprint: Warning: Blueprint AC_attackBees (child of/implements AC_locatorExecuter) has a member variable with a conflicting name (sightRange). Changing to sightRange_0.
+[2025.12.05-23.34.15:995][948]LogBlueprint: Warning: Blueprint AC_attackHornets (child of/implements AC_locatorExecuter) has a member variable with a conflicting name (sightRange). Changing to sightRange_0.
+[2025.12.05-23.34.16:427][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.05-23.34.16:526][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.34.16:581][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter] ([2] browsable assets)...
+[2025.12.05-23.34.16:581][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter]
+[2025.12.05-23.34.16:597][970]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter
+[2025.12.05-23.34.16:598][970]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_locatorExecuter402404564F51B28C6CF65A8AD07E43FA.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_locatorExecuter.uasset'
+[2025.12.05-23.34.16:599][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees] ([2] browsable assets)...
+[2025.12.05-23.34.16:599][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees]
+[2025.12.05-23.34.16:614][970]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees
+[2025.12.05-23.34.16:615][970]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackBees6B1E54F141C8C5A46065EB96A2B24F4A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackBees.uasset'
+[2025.12.05-23.34.16:616][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.34.16:616][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.34.16:636][970]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.34.16:636][970]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornetsA06988E8472C629F10970EBE852E174A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.34.16:645][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.854 ms (total: 6.94 sec)
+[2025.12.05-23.34.16:704][970]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.05-23.34.16:705][970]LogContentValidation: Enabled validators:
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.34.16:705][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.34.16:705][970]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter Validating asset
+[2025.12.05-23.34.16:705][970]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees Validating asset
+[2025.12.05-23.34.16:705][970]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.34.21:303][101]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.12.05-23.34.28:155][500]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.12.05-23.34.28:165][500]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.12.05-23.34.29:694][591]LogBlueprint: Warning: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] Could not find a variable named "target" in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'.
+Make sure '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C' has been compiled for  Set target
+[2025.12.05-23.34.29:698][591]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] The property associated with  Target  could not be found in '/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.AC_scareWoodpeckers_C'
+[2025.12.05-23.34.29:730][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.05-23.34.32:199][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.05-23.34.32:348][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.34.32:411][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackPlants] ([2] browsable assets)...
+[2025.12.05-23.34.32:411][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackPlants]
+[2025.12.05-23.34.32:430][735]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackPlants
+[2025.12.05-23.34.32:430][735]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackPlantsF48909A443230FB7CB14B0B49DB3A0AC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackPlants.uasset'
+[2025.12.05-23.34.32:432][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter] ([2] browsable assets)...
+[2025.12.05-23.34.32:432][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter]
+[2025.12.05-23.34.32:444][735]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter
+[2025.12.05-23.34.32:444][735]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_locatorExecuter5BD6564142C5A734FE640285D307AAF3.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_locatorExecuter.uasset'
+[2025.12.05-23.34.32:447][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees] ([2] browsable assets)...
+[2025.12.05-23.34.32:447][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees]
+[2025.12.05-23.34.32:461][735]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees
+[2025.12.05-23.34.32:461][735]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackBeesE2D95B9645EB01894F3F2093A9868E63.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackBees.uasset'
+[2025.12.05-23.34.32:462][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.34.32:463][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.34.32:483][735]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.34.32:484][735]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets86C8988347182C31C1EA0A8DA9627103.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.34.32:485][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.34.32:485][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.34.32:499][735]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.34.32:500][735]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers3DE03C2E459367487FD8528B9C8AFA43.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.34.32:508][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.365 ms (total: 7.10 sec)
+[2025.12.05-23.34.32:572][735]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.05-23.34.32:572][735]LogContentValidation: Enabled validators:
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.34.32:572][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.34.32:572][735]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackPlants Validating asset
+[2025.12.05-23.34.32:572][735]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_locatorExecuter Validating asset
+[2025.12.05-23.34.32:572][735]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees Validating asset
+[2025.12.05-23.34.32:572][735]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.34.32:572][735]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.34.42:958][355]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4727.200195
+[2025.12.05-23.34.43:108][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.34.43:108][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4727.333008, Update Interval: 326.459534
+[2025.12.05-23.34.52:466][918]LogSlate: Window 'Replace References' being destroyed
+[2025.12.05-23.34.52:478][918]LogSlate: Window 'Replace References' being destroyed
+[2025.12.05-23.35.03:140][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.05-23.35.03:270][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.03:324][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.35.03:324][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.35.03:345][539]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.35.03:347][539]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets7D0E5DEC471AAED0A3EBE88642A9135B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.35.03:357][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.882 ms (total: 7.18 sec)
+[2025.12.05-23.35.03:417][539]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.03:417][539]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.03:417][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.03:418][539]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.35.05:830][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.05-23.35.05:955][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.06:026][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.05-23.35.06:027][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.05-23.35.06:049][679]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.05-23.35.06:050][679]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets2526267F4258FCC4D143A5B4F73C001D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.05-23.35.06:059][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.164 ms (total: 7.29 sec)
+[2025.12.05-23.35.06:120][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.06:120][679]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.06:120][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.06:120][679]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.05-23.35.13:605][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.05-23.35.19:165][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.05-23.35.19:276][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.19:346][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees] ([2] browsable assets)...
+[2025.12.05-23.35.19:346][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees]
+[2025.12.05-23.35.19:364][458]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees
+[2025.12.05-23.35.19:364][458]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackBees0D122F94458BE4752007E9B5CE9A3284.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackBees.uasset'
+[2025.12.05-23.35.19:376][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.456 ms (total: 7.39 sec)
+[2025.12.05-23.35.19:435][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.19:435][458]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.19:435][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.19:435][458]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees Validating asset
+[2025.12.05-23.35.24:722][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.05-23.35.24:853][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.24:912][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees] ([2] browsable assets)...
+[2025.12.05-23.35.24:912][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees]
+[2025.12.05-23.35.24:925][755]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees
+[2025.12.05-23.35.24:927][755]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackBees370728E4472CC2B81053C18CACF16625.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackBees.uasset'
+[2025.12.05-23.35.24:938][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.576 ms (total: 7.47 sec)
+[2025.12.05-23.35.24:994][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.24:994][755]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.24:994][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.24:994][755]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees Validating asset
+[2025.12.05-23.35.28:725][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.05-23.35.28:852][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.28:906][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.35.28:906][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.35.28:922][976]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.35.28:923][976]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers97DDAFB04428231B9C486D946932B6DF.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.35.28:933][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.972 ms (total: 7.55 sec)
+[2025.12.05-23.35.28:987][976]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.28:987][976]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.28:987][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.28:987][976]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.35.35:772][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.35:825][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.35.35:825][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.35.35:841][287]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.35.35:841][287]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersFF6BB6ED415FB9B010BCADA9648A3EC8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.35.35:852][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.828 ms (total: 7.63 sec)
+[2025.12.05-23.35.35:905][287]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.35:905][287]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.35:905][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.35:906][287]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.35.57:345][554]LogEditorTransaction: Undo Move Nodes
+[2025.12.05-23.35.57:892][570]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.05-23.35.58:621][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.05-23.35.58:751][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.35.58:815][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.35.58:815][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.35.58:831][610]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.35.58:831][610]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers41CB9E7F4F63C5F526B7C6BA1040AD49.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.35.58:843][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.620 ms (total: 7.73 sec)
+[2025.12.05-23.35.58:904][610]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.35.58:904][610]LogContentValidation: Enabled validators:
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.35.58:904][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.35.58:904][610]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.36.22:660][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.05-23.36.22:771][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.36.22:835][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.36.22:835][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.36.22:853][  0]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.36.22:855][  0]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersC63454BD430CBBA757E1DA9FEBB70E07.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.36.22:865][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.184 ms (total: 7.82 sec)
+[2025.12.05-23.36.22:929][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.36.22:929][  0]LogContentValidation: Enabled validators:
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.36.22:929][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.36.22:929][  0]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.36.34:572][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.05-23.36.34:691][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.36.34:761][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.36.34:761][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.36.34:777][693]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.36.34:777][693]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersC25436AD4FB12D0218C0DAB85F476266.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.36.34:788][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.515 ms (total: 7.92 sec)
+[2025.12.05-23.36.34:846][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.36.34:846][693]LogContentValidation: Enabled validators:
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.36.34:846][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.36.34:846][693]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.36.50:753][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.05-23.36.50:848][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.36.50:905][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.36.50:905][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.36.50:921][640]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.36.50:922][640]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers9D4174F24C58F676CD6E45B0CD92E508.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.36.50:932][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.845 ms (total: 8.00 sec)
+[2025.12.05-23.36.50:993][640]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.36.50:993][640]LogContentValidation: Enabled validators:
+[2025.12.05-23.36.50:993][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.36.50:993][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.36.50:994][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.36.50:994][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.36.50:994][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.36.50:994][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.36.50:994][640]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.36.51:735][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.12.05-23.37.55:769][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.05-23.38.06:707][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.05-23.38.06:830][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.38.06:894][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.38.06:894][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.38.06:911][169]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.38.06:912][169]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers80F9FC854595FB1A81D0AD82FA9E18CE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.38.06:921][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.381 ms (total: 8.09 sec)
+[2025.12.05-23.38.06:974][169]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.38.06:974][169]LogContentValidation: Enabled validators:
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.38.06:974][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.38.06:975][169]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.38.39:945][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.05-23.38.40:096][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.38.40:171][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.38.40:171][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.38.40:187][853]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.38.40:188][853]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers897461AD4877308A39312594D3123DD9.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.38.40:200][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.197 ms (total: 8.20 sec)
+[2025.12.05-23.38.40:261][853]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.38.40:261][853]LogContentValidation: Enabled validators:
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.38.40:261][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.38.40:261][853]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.39.20:310][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.05-23.41.01:011][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5105.246094
+[2025.12.05-23.41.01:178][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.41.01:178][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5105.395996, Update Interval: 322.579437
+[2025.12.05-23.41.54:815][513]LogEditorTransaction: Undo Function Dropped on Graph
+[2025.12.05-23.41.55:725][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.05-23.43.30:128][450]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.05-23.44.23:039][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.05-23.44.23:156][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.44.23:221][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.44.23:221][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.44.23:237][599]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.44.23:238][599]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersF411586A450404518E057386DDF773EC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.44.23:248][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.897 ms (total: 8.29 sec)
+[2025.12.05-23.44.23:305][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.44.23:305][599]LogContentValidation: Enabled validators:
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.44.23:305][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.44.23:305][599]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.44.52:824][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.05-23.44.52:948][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.44.53:016][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.44.53:016][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.44.53:035][335]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.44.53:036][335]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers545AC3EE4A9253C675FC15B8B3329FCA.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.44.53:046][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.916 ms (total: 8.39 sec)
+[2025.12.05-23.44.53:100][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.44.53:100][335]LogContentValidation: Enabled validators:
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.44.53:100][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.44.53:100][335]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.45.05:802][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.05-23.45.05:914][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.45.05:975][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.45.05:975][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.45.05:992][ 94]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.45.05:993][ 94]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers39C306DA46EA89A69E5F538E393DCEC5.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.45.06:001][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.761 ms (total: 8.47 sec)
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: Enabled validators:
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.45.06:055][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.45.06:055][ 94]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.45.53:385][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.05-23.45.53:521][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.45.53:595][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.45.53:595][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.45.53:613][925]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.45.53:613][925]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers3EE946B94733096B0A36BA83B805D83A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.45.53:626][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.010 ms (total: 8.58 sec)
+[2025.12.05-23.45.53:687][925]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.45.53:687][925]LogContentValidation: Enabled validators:
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.45.53:687][925]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.45.53:687][925]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.46.04:174][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.05-23.46.04:317][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.46.04:375][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.46.04:375][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.46.04:390][235]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.46.04:391][235]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersD436A26545968869A13193AC11E1BEB3.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.46.04:401][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.972 ms (total: 8.66 sec)
+[2025.12.05-23.46.04:466][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.46.04:466][235]LogContentValidation: Enabled validators:
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.46.04:466][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.46.04:466][235]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.46.09:765][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.05-23.46.09:886][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.46.09:956][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.46.09:956][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.46.09:972][551]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.46.09:973][551]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers5DA2E09840EF4CBF79E246BE8C4BEEE1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.46.09:984][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.526 ms (total: 8.76 sec)
+[2025.12.05-23.46.10:050][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.46.10:050][551]LogContentValidation: Enabled validators:
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.46.10:050][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.46.10:051][551]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.46.23:819][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.05-23.46.23:930][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.46.23:988][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.46.23:988][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.46.24:005][371]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.46.24:006][371]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers02929BB3426E7A1D2494EBA70C95EA97.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.46.24:016][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.948 ms (total: 8.84 sec)
+[2025.12.05-23.46.24:067][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.46.24:068][371]LogContentValidation: Enabled validators:
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.46.24:068][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.46.24:068][371]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.47.00:496][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.05-23.47.00:624][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.47.00:685][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.47.00:685][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.47.00:701][306]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.47.00:702][306]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersF085670647D9E5EA3014329C8960C681.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.47.00:711][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.339 ms (total: 8.93 sec)
+[2025.12.05-23.47.00:774][306]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.47.00:775][306]LogContentValidation: Enabled validators:
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.47.00:775][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.47.00:775][306]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.47.05:785][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.05-23.47.05:908][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.47.05:976][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.47.05:976][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.47.05:992][604]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.47.05:993][604]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersDB0D39324A09CE9CE1D534A0D099B5F0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.47.06:005][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.702 ms (total: 9.03 sec)
+[2025.12.05-23.47.06:075][604]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.47.06:075][604]LogContentValidation: Enabled validators:
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.47.06:075][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.47.06:075][604]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.47.07:798][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5471.989258
+[2025.12.05-23.47.07:983][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.47.07:983][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5472.156738, Update Interval: 338.195129
+[2025.12.05-23.47.29:197][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.05-23.47.29:318][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.47.29:387][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.47.29:387][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.47.29:403][977]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.47.29:404][977]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers07B7A047435C14C7ED764497E594B76A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.47.29:413][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.071 ms (total: 9.12 sec)
+[2025.12.05-23.47.29:465][977]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.47.29:465][977]LogContentValidation: Enabled validators:
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.47.29:465][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.47.29:465][977]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.47.50:845][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.05-23.47.50:963][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.47.51:022][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.47.51:023][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.47.51:039][254]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.47.51:039][254]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers7323F6B94DA97376A966E99B4090052F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.47.51:049][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.959 ms (total: 9.21 sec)
+[2025.12.05-23.47.51:112][254]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.47.51:112][254]LogContentValidation: Enabled validators:
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.47.51:112][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.47.51:112][254]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.48.00:051][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.05-23.48.00:167][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.48.00:234][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.48.00:234][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.48.00:256][787]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.48.00:256][787]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers98DBEB204592EF8795D652AB65B47497.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.48.00:271][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.320 ms (total: 9.31 sec)
+[2025.12.05-23.48.00:326][787]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.48.00:326][787]LogContentValidation: Enabled validators:
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.48.00:326][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.48.00:326][787]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.48.06:305][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.05-23.48.06:418][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.48.06:486][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.48.06:486][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.48.06:503][144]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.48.06:504][144]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers34A5F6E54C6BD649BD2F879D3781DE66.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.48.06:513][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.802 ms (total: 9.41 sec)
+[2025.12.05-23.48.06:579][144]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.48.06:579][144]LogContentValidation: Enabled validators:
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.48.06:579][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.48.06:580][144]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.48.49:651][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.05-23.48.49:803][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.48.49:872][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.48.49:872][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.48.49:889][661]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.48.49:890][661]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers1634219545310F3CDD0E8986D4FB8123.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.48.49:904][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.816 ms (total: 9.51 sec)
+[2025.12.05-23.48.49:970][661]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.48.49:970][661]LogContentValidation: Enabled validators:
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.48.49:970][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.48.49:970][661]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.49.18:986][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.05-23.49.19:104][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.49.19:165][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.49.19:165][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.49.19:181][347]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.49.19:182][347]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersE35E8EEF4D11800CE6DD358C242A188A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.49.19:191][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.387 ms (total: 9.59 sec)
+[2025.12.05-23.49.19:253][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.49.19:253][347]LogContentValidation: Enabled validators:
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.49.19:253][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.49.19:253][347]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.50.49:130][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/animalBPs/animalUniqueBehaviour/AC_flight.AC_flight
+[2025.12.05-23.50.49:130][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.05-23.51.30:433][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.05-23.51.30:562][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.51.30:618][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.05-23.51.30:618][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.05-23.51.30:642][142]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.05-23.51.30:643][142]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight90B243F04B337065B35F82AB93D6A932.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.05-23.51.30:644][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.51.30:644][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.51.30:659][142]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.51.30:659][142]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersF1F3271F4F227A977EC960A2A9D2FC89.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.51.30:670][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.998 ms (total: 9.70 sec)
+[2025.12.05-23.51.30:736][142]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.05-23.51.30:736][142]LogContentValidation: Enabled validators:
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.51.30:736][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.51.30:736][142]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.05-23.51.30:736][142]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.51.34:770][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.05-23.51.34:906][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.51.34:964][378]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.05-23.51.34:964][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.05-23.51.34:988][378]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.05-23.51.34:988][378]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight6776F8684B91B7612A31A5B87C756D09.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.05-23.51.34:998][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.202 ms (total: 9.79 sec)
+[2025.12.05-23.51.35:055][378]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.51.35:055][378]LogContentValidation: Enabled validators:
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.51.35:055][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.51.35:055][378]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.05-23.51.41:412][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.05-23.51.41:587][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.51.41:638][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.51.41:639][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.51.41:657][747]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.51.41:657][747]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalBE0BDB82415F95FE1201D9BAF8A18A93.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.51.41:659][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.05-23.51.41:659][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.05-23.51.41:681][747]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.05-23.51.41:682][747]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight823FF8544A10C2C3548C59A46C2FB0B8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.05-23.51.41:694][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.970 ms (total: 9.90 sec)
+[2025.12.05-23.51.41:749][747]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.05-23.51.41:749][747]LogContentValidation: Enabled validators:
+[2025.12.05-23.51.41:749][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.51.41:750][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.51.41:750][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.51.41:750][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.51.41:750][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.51.41:750][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.51.41:750][747]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.51.41:750][747]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.05-23.51.45:261][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.05-23.51.51:830][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.05-23.51.51:958][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.51.52:019][343]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.51.52:019][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.51.52:036][343]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.51.52:038][343]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalC4BCF01046DC253EA2B343813DAED61F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.51.52:049][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.427 ms (total: 9.99 sec)
+[2025.12.05-23.51.52:114][343]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.51.52:114][343]LogContentValidation: Enabled validators:
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.51.52:114][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.51.52:114][343]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.52.10:562][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.05-23.52.10:680][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.52.10:749][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.52.10:749][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.52.10:769][437]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.52.10:770][437]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal0BD27B67489BC0FD523636ACF3178A77.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.52.10:780][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.002 ms (total: 10.0 sec)
+[2025.12.05-23.52.10:846][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.52.10:846][437]LogContentValidation: Enabled validators:
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.52.10:846][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.52.10:846][437]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.52.37:010][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.12.05-23.52.37:134][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.52.37:201][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.52.37:201][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.52.37:220][981]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.52.37:221][981]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal1F19494F42EEF47B5E9A0F868BB6D31E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.52.37:232][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.792 ms (total: 10.1 sec)
+[2025.12.05-23.52.37:295][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.52.37:295][981]LogContentValidation: Enabled validators:
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.52.37:295][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.52.37:296][981]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.52.54:037][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.05-23.52.54:144][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.52.54:210][984]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.52.54:210][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.52.54:227][984]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.52.54:228][984]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal39312D034EF2CA5B584F3E9E69045C73.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.52.54:237][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.993 ms (total: 10.2 sec)
+[2025.12.05-23.52.54:292][984]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.52.54:292][984]LogContentValidation: Enabled validators:
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.52.54:292][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.52.54:292][984]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.53.02:142][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.05-23.53.02:246][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.53.02:307][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.53.02:307][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.53.02:325][450]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.53.02:325][450]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal470D27F5420686C889CA238A8B080B31.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.53.02:335][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.992 ms (total: 10.3 sec)
+[2025.12.05-23.53.02:400][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.53.02:400][450]LogContentValidation: Enabled validators:
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.53.02:400][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.53.02:400][450]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.53.13:584][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.05-23.53.13:704][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.53.13:767][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.53.13:767][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.53.13:787][114]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.53.13:787][114]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal0AADEB3345BEFA8DE5E7E4A77C664EEE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.53.13:798][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.639 ms (total: 10.4 sec)
+[2025.12.05-23.53.13:860][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.53.13:860][114]LogContentValidation: Enabled validators:
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.53.13:860][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.53.13:860][114]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.53.27:410][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5851.587891
+[2025.12.05-23.53.27:577][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.53.27:577][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5851.738770, Update Interval: 348.663605
+[2025.12.05-23.53.32:965][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.05-23.53.33:079][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.53.33:137][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.53.33:137][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.53.33:156][224]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.53.33:156][224]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal3D85F4A1414A787C07E1AD9082ABE8F9.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.53.33:166][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.957 ms (total: 10.5 sec)
+[2025.12.05-23.53.33:223][224]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.53.33:223][224]LogContentValidation: Enabled validators:
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.53.33:223][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.53.33:223][224]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.53.56:076][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.05-23.53.56:208][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.53.56:273][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.53.56:273][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.53.56:291][537]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.53.56:292][537]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalD9FB40AF40FB44A582D39DBF6B7CC185.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.53.56:303][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.682 ms (total: 10.6 sec)
+[2025.12.05-23.53.56:366][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.53.56:366][537]LogContentValidation: Enabled validators:
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.53.56:366][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.53.56:366][537]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.53.58:641][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.05-23.53.58:774][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.53.58:838][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.53.58:838][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.53.58:857][665]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.53.58:857][665]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal40EF404D4DC608BD61A4A78798D960C1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.53.58:868][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.858 ms (total: 10.7 sec)
+[2025.12.05-23.53.58:925][665]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.53.58:925][665]LogContentValidation: Enabled validators:
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.53.58:925][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.53.58:925][665]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.54.02:944][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.05-23.54.03:057][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.54.03:116][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.54.03:116][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.54.03:134][901]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.54.03:135][901]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal2D73B7A4423D82E51A131E9A93C3A6C4.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.54.03:145][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.539 ms (total: 10.8 sec)
+[2025.12.05-23.54.03:205][901]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.54.03:205][901]LogContentValidation: Enabled validators:
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.54.03:205][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.54.03:205][901]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.54.11:016][364]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\AIC_animal.uasset: [Compiler] Message node  getNextTargetLocation  must have a valid target or reference to self.
+[2025.12.05-23.54.11:085][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.05-23.54.57:776][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.05-23.54.57:894][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.54.57:951][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.54.57:951][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.54.57:970][ 79]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.54.57:970][ 79]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalF982DA5D4676073B9DED418A0D58FE21.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.54.57:981][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.172 ms (total: 10.9 sec)
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: Enabled validators:
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.54.58:045][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.54.58:045][ 79]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.54.59:360][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.05-23.55.00:275][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.55.00:336][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.55.00:336][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.55.00:354][198]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.55.00:355][198]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalA3AB072C41DB72B3E35918A9BC3774B0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.55.00:365][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.841 ms (total: 11.0 sec)
+[2025.12.05-23.55.00:427][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.55.00:427][198]LogContentValidation: Enabled validators:
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.55.00:427][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.55.00:429][198]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.55.02:793][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.05-23.55.02:916][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.55.02:991][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.55.02:991][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.55.03:009][338]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.55.03:010][338]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalFCE9AD5F41489133521A439879AFCA2E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.55.03:021][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.323 ms (total: 11.1 sec)
+[2025.12.05-23.55.03:083][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.55.03:083][338]LogContentValidation: Enabled validators:
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.55.03:083][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.55.03:083][338]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.55.09:610][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.05-23.55.09:730][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.55.09:786][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.05-23.55.09:786][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.05-23.55.09:805][728]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.05-23.55.09:806][728]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalE174CF89455504AC683C6B90EAD901DC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.05-23.55.09:815][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.400 ms (total: 11.2 sec)
+[2025.12.05-23.55.09:873][728]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.55.09:873][728]LogContentValidation: Enabled validators:
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.55.09:873][728]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.55.09:873][728]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.05-23.59.11:179][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.05-23.59.11:315][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-23.59.11:373][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.05-23.59.11:373][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.05-23.59.11:389][171]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.05-23.59.11:390][171]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers7A2C2F0948D0AC61498972B3E619993D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.05-23.59.11:400][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.212 ms (total: 11.2 sec)
+[2025.12.05-23.59.11:464][171]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-23.59.11:464][171]LogContentValidation: Enabled validators:
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-23.59.11:464][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-23.59.11:464][171]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.05-23.59.55:211][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6239.347168
+[2025.12.05-23.59.55:394][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-23.59.55:394][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6239.513672, Update Interval: 309.470490
+[2025.12.06-00.00.32:696][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.06-00.00.32:822][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.00.32:885][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.00.32:885][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.00.32:903][281]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.00.32:903][281]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers9B8097A240BE9E5F91A17FA7002D6D9F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.00.32:912][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.619 ms (total: 11.3 sec)
+[2025.12.06-00.00.32:974][281]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.00.32:974][281]LogContentValidation: Enabled validators:
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.00.32:974][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.00.32:974][281]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.00.48:812][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.06-00.00.48:934][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.00.49:001][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.00.49:001][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.00.49:018][216]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.00.49:019][216]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers694192A54191D2E22B3CDCA102DE9203.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.00.49:030][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.039 ms (total: 11.4 sec)
+[2025.12.06-00.00.49:090][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.00.49:090][216]LogContentValidation: Enabled validators:
+[2025.12.06-00.00.49:090][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.00.49:090][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.00.49:091][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.00.49:091][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.00.49:091][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.00.49:091][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.00.49:091][216]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.00.54:744][555]LogEditorTransaction: Undo Move Nodes
+[2025.12.06-00.00.55:062][563]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.12.06-00.00.55:278][568]LogEditorTransaction: Undo Move Node
+[2025.12.06-00.00.55:500][579]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.12.06-00.00.55:831][597]LogEditorTransaction: Undo Add Node
+[2025.12.06-00.00.56:241][620]LogEditorTransaction: Undo Delete current selection
+[2025.12.06-00.01.03:946][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.12.06-00.01.04:080][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.01.04:142][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.01.04:142][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.01.04:159][ 63]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.01.04:160][ 63]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers0E9EAB144D5539D2F5EDE2AE46918B71.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.01.04:169][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.228 ms (total: 11.5 sec)
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: Enabled validators:
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.01.04:226][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.01.04:226][ 63]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.02.12:201][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.06-00.02.12:204][ 93]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.037
+[2025.12.06-00.02.12:204][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.02.12:204][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.02.12:220][ 93]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers_Auto3
+[2025.12.06-00.02.12:220][ 93]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers_Auto3B92E2FAB407D7CE80BB481A11747A530.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Autosaves/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers_Auto3.uasset'
+[2025.12.06-00.02.12:221][ 93]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.12.06-00.04.08:791][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.06-00.04.08:913][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.04.08:979][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.04.08:979][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.04.08:995][936]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.04.08:996][936]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers3072B908406D3EEFF0D814A769078E26.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.04.09:007][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.232 ms (total: 11.6 sec)
+[2025.12.06-00.04.09:065][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.04.09:065][936]LogContentValidation: Enabled validators:
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.04.09:065][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.04.09:065][936]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.04.31:419][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.06-00.04.31:539][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.04.31:608][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.04.31:608][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.04.31:625][266]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.04.31:625][266]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers5786B2A64A4F4B59BE98D798F490D352.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.04.31:635][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.668 ms (total: 11.7 sec)
+[2025.12.06-00.04.31:702][266]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.04.31:702][266]LogContentValidation: Enabled validators:
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.04.31:702][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.04.31:703][266]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.04.40:675][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.06-00.04.40:793][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.04.40:858][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.04.40:858][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.04.40:876][799]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.04.40:876][799]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers1589696C40DAB05F9376EBA6B4BC503E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.04.40:887][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.084 ms (total: 11.8 sec)
+[2025.12.06-00.04.40:937][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.04.40:937][799]LogContentValidation: Enabled validators:
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.04.40:937][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.04.40:937][799]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.04.45:380][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.06-00.04.45:504][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.04.45:567][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.04.45:567][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.04.45:583][ 59]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.04.45:584][ 59]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers03E786284903AC56E86B2EB3F29CC624.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.04.45:596][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.487 ms (total: 11.9 sec)
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: Enabled validators:
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.04.45:660][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.04.45:660][ 59]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.04.51:972][436]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2025.12.06-00.04.52:000][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.06-00.05.16:286][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.06-00.05.16:418][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.05.16:477][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.05.16:477][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.05.16:498][876]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.05.16:499][876]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers62EBFE154C112EFA819D90BF72D22275.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.05.16:509][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.290 ms (total: 12.0 sec)
+[2025.12.06-00.05.16:564][876]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.05.16:564][876]LogContentValidation: Enabled validators:
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.05.16:564][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.05.16:564][876]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.05.17:070][906]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\animalUniqueBehaviour\AC_scareWoodpeckers.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2025.12.06-00.05.17:097][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.06-00.05.32:043][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.06-00.05.35:683][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.06-00.05.35:797][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.05.35:862][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.05.35:862][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.05.35:880][981]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.05.35:881][981]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckersC12834134A111EAD305F6AA507786390.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.05.35:892][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.252 ms (total: 12.1 sec)
+[2025.12.06-00.05.35:950][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.05.35:950][981]LogContentValidation: Enabled validators:
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.05.35:950][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.05.35:950][981]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.05.57:109][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6601.229004
+[2025.12.06-00.05.57:292][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-00.05.57:292][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6601.395508, Update Interval: 349.981995
+[2025.12.06-00.06.08:569][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.06-00.06.08:671][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-00.06.08:735][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.06-00.06.08:735][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.06-00.06.08:755][934]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.06-00.06.08:756][934]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers5091E52B4AE2970B4CF8A783393F3950.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.06-00.06.08:769][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.200 ms (total: 12.2 sec)
+[2025.12.06-00.06.08:831][934]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-00.06.08:831][934]LogContentValidation: Enabled validators:
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-00.06.08:831][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-00.06.08:831][934]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.06-00.12.46:465][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7010.571289
+[2025.12.06-00.12.47:464][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-00.12.47:464][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7011.235840, Update Interval: 359.630127
+[2025.12.06-00.13.57:690][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.06-00.13.57:861][309]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.12.06-00.13.57:876][309]LogSlate: Took 0.015688 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.12.06-00.14.00:328][309]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.06-00.14.00:518][309]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/animalBPs/animalUniqueBehaviour/behaviourLibrary.behaviourLibrary
+	Asset Type: Blueprint
+[2025.12.06-00.14.01:162][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.06-00.14.01:189][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.06-00.14.01:213][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.06-00.14.01:412][309]SourceControl: Error: error: pathspec 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/behaviourLibrary.uasset' did not match any file(s) known to git
+[2025.12.06-00.14.01:561][309]SourceControl: Error: fatal: pathspec 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/behaviourLibrary.uasset' did not match any files
+[2025.12.06-00.14.01:567][309]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2025.12.06-00.14.02:345][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
