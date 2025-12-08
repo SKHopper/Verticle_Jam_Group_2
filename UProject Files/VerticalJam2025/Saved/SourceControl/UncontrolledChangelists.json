@@ -7,7 +7,13 @@
 			"files": [
 				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap",
 				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/seed_test/BP_Master_Seed.uasset",
-				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/seed_test/BP_Seed_Child.uasset"
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/seed_test/BP_Seed_Child.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/F_plantSpecies.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plantSpawner.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/BP_plant.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/plantSpeciesData.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/BP_AuraManager_Component.uasset",
+				"C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/BP_NectarTestFlower.uasset"
 			]
 		}
 	]
