@@ -15431,3 +15431,151 @@ LogInit: Object subsystem initialized
 [2025.12.09-17.10.05:250][881]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.09-17.10.05:250][881]AssetCheck: /Game/animalBPs/BP_animal_ Validating asset
 [2025.12.09-17.10.42:093][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.09-17.15.11:292][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2498.375488
+[2025.12.09-17.15.11:492][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.15.11:492][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2498.558350, Update Interval: 306.084778
+[2025.12.09-17.15.19:092][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.09-17.15.19:096][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-17.15.19:167][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/BP_animal_] ([2] browsable assets)...
+[2025.12.09-17.15.19:285][455]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/BP_animal_.BP_animal_]
+[2025.12.09-17.15.19:285][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BP_animal_]
+[2025.12.09-17.15.19:315][455]LogSavePackage: Moving output files for package: /Game/animalBPs/BP_animal_
+[2025.12.09-17.15.19:315][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_animal_988D18A245F07A0BB4AD8EB40FAD2803.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BP_animal_.uasset'
+[2025.12.09-17.15.19:317][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/abstract_lifeform/BP_lifeform] ([2] browsable assets)...
+[2025.12.09-17.15.19:348][455]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/abstract_lifeform/BP_lifeform.BP_lifeform]
+[2025.12.09-17.15.19:348][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/abstract_lifeform/BP_lifeform]
+[2025.12.09-17.15.19:395][455]LogSavePackage: Moving output files for package: /Game/animalBPs/abstract_lifeform/BP_lifeform
+[2025.12.09-17.15.19:397][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_lifeform5C26EFBD404B955B17672A8F8A2677A8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/abstract_lifeform/BP_lifeform.uasset'
+[2025.12.09-17.15.19:402][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/spawning/F_animalSpecies] ([1] browsable assets)...
+[2025.12.09-17.15.19:402][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/spawning/F_animalSpecies]
+[2025.12.09-17.15.19:427][455]LogSavePackage: Moving output files for package: /Game/animalBPs/spawning/F_animalSpecies
+[2025.12.09-17.15.19:428][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/F_animalSpeciesCF487B0B47871D86FC824FA07B1C4704.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/spawning/F_animalSpecies.uasset'
+[2025.12.09-17.15.19:432][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.09-17.15.19:432][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.09-17.15.19:474][455]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.09-17.15.19:474][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight333B6B3B42CE444C7EC4EE819D754E90.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.09-17.15.19:476][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/spawning/BP_animalSpawner] ([2] browsable assets)...
+[2025.12.09-17.15.19:476][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/spawning/BP_animalSpawner]
+[2025.12.09-17.15.19:499][455]LogSavePackage: Moving output files for package: /Game/animalBPs/spawning/BP_animalSpawner
+[2025.12.09-17.15.19:500][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_animalSpawnerADA1AF504F4C76B585A7C98D1F95F63F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/spawning/BP_animalSpawner.uasset'
+[2025.12.09-17.15.19:501][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/spawning/animalSpeciesData] ([1] browsable assets)...
+[2025.12.09-17.15.19:501][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/spawning/animalSpeciesData]
+[2025.12.09-17.15.19:504][455]LogSavePackage: Moving output files for package: /Game/animalBPs/spawning/animalSpeciesData
+[2025.12.09-17.15.19:504][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/animalSpeciesDataD5CFADBC4318516A07B1F3910462DA6E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/spawning/animalSpeciesData.uasset'
+[2025.12.09-17.15.19:506][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees] ([2] browsable assets)...
+[2025.12.09-17.15.19:506][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackBees]
+[2025.12.09-17.15.19:520][455]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees
+[2025.12.09-17.15.19:520][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackBeesC9BB3558464B8E61E4EF049508F61629.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackBees.uasset'
+[2025.12.09-17.15.19:522][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets] ([2] browsable assets)...
+[2025.12.09-17.15.19:522][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackHornets]
+[2025.12.09-17.15.19:542][455]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets
+[2025.12.09-17.15.19:543][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackHornets902C18C94BDA0B6BD3D40FA48C3440EC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackHornets.uasset'
+[2025.12.09-17.15.19:544][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_attackPlants] ([2] browsable assets)...
+[2025.12.09-17.15.19:544][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_attackPlants]
+[2025.12.09-17.15.19:562][455]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_attackPlants
+[2025.12.09-17.15.19:563][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_attackPlantsAE8E101940FE3E7C438531BD96896FDD.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_attackPlants.uasset'
+[2025.12.09-17.15.19:564][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers] ([2] browsable assets)...
+[2025.12.09-17.15.19:564][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers]
+[2025.12.09-17.15.19:584][455]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers
+[2025.12.09-17.15.19:584][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_scareWoodpeckers819C002B428034E6A0DC0CA590C176D3.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers.uasset'
+[2025.12.09-17.15.19:596][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 500.049 ms (total: 8.60 sec)
+[2025.12.09-17.15.19:667][455]LogContentValidation: Display: Starting to validate 10 assets
+[2025.12.09-17.15.19:667][455]LogContentValidation: Enabled validators:
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-17.15.19:667][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-17.15.19:667][455]AssetCheck: /Game/animalBPs/BP_animal_ Validating asset
+[2025.12.09-17.15.19:667][455]AssetCheck: /Game/animalBPs/abstract_lifeform/BP_lifeform Validating asset
+[2025.12.09-17.15.19:667][455]AssetCheck: /Game/animalBPs/spawning/F_animalSpecies Validating asset
+[2025.12.09-17.15.19:667][455]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.09-17.15.19:667][455]AssetCheck: /Game/animalBPs/spawning/BP_animalSpawner Validating asset
+[2025.12.09-17.15.19:668][455]AssetCheck: /Game/animalBPs/spawning/animalSpeciesData Validating asset
+[2025.12.09-17.15.19:668][455]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackBees Validating asset
+[2025.12.09-17.15.19:668][455]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackHornets Validating asset
+[2025.12.09-17.15.19:668][455]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_attackPlants Validating asset
+[2025.12.09-17.15.19:668][455]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_scareWoodpeckers Validating asset
+[2025.12.09-17.15.21:724][570]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-17.15.21:739][570]LogPlayLevel: [PlayLevel] Compiling BP_lifeform before play...
+[2025.12.09-17.15.21:740][570]LogPlayLevel: [PlayLevel]   Compiling BP_animal_ as a dependent...
+[2025.12.09-17.15.21:743][570]LogBlueprint: Error: [AssetLog] C:\Users\skojo\OneDrive\Documents\GitHub\Verticle_Jam_Group_2\UProject Files\VerticalJam2025\Content\animalBPs\abstract_lifeform\BP_lifeform.uasset: [Compiler] In use pin  Mesh  no longer exists on node  Break F Animal Species . Please refresh node or break links to remove pin.
+[2025.12.09-17.15.21:819][570]LogPlayLevel: [PlayLevel] Compiling AC_flight before play...
+[2025.12.09-17.15.21:832][570]LogPlayLevel: [PlayLevel] Compiling AC_attackBees before play...
+[2025.12.09-17.15.21:839][570]LogPlayLevel: [PlayLevel] Compiling AC_attackHornets before play...
+[2025.12.09-17.15.21:848][570]LogPlayLevel: [PlayLevel] Compiling AC_scareWoodpeckers before play...
+[2025.12.09-17.15.21:857][570]LogPlayLevel: [PlayLevel] Compiling AC_attackPlants before play...
+[2025.12.09-17.15.21:867][570]LogPlayLevel: [PlayLevel] Compiling BP_animalSpawner before play...
+[2025.12.09-17.15.21:937][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-17.15.21:939][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 207 ms (8 blueprints)
+[2025.12.09-17.15.21:939][570]BlueprintLog: Warning: Blueprint failed to compile:  BP_lifeform
+[2025.12.09-17.15.23:282][570]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.09-17.15.39:842][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.09-17.15.39:847][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-17.15.39:908][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/abstract_lifeform/BP_lifeform] ([2] browsable assets)...
+[2025.12.09-17.15.40:040][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/abstract_lifeform/BP_lifeform.BP_lifeform]
+[2025.12.09-17.15.40:040][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/abstract_lifeform/BP_lifeform]
+[2025.12.09-17.15.40:062][550]LogSavePackage: Moving output files for package: /Game/animalBPs/abstract_lifeform/BP_lifeform
+[2025.12.09-17.15.40:063][550]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_lifeformFBA0472C4BB433354E7A82971F3B2B45.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/abstract_lifeform/BP_lifeform.uasset'
+[2025.12.09-17.15.40:074][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.386 ms (total: 8.82 sec)
+[2025.12.09-17.15.40:132][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-17.15.40:132][550]LogContentValidation: Enabled validators:
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-17.15.40:132][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-17.15.40:133][550]AssetCheck: /Game/animalBPs/abstract_lifeform/BP_lifeform Validating asset
+[2025.12.09-17.15.52:077][249]LogEditorTransaction: Undo Add Node
+[2025.12.09-17.16.08:177][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.09-17.16.08:181][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-17.16.08:244][177]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/abstract_lifeform/BP_lifeform] ([2] browsable assets)...
+[2025.12.09-17.16.08:364][177]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/abstract_lifeform/BP_lifeform.BP_lifeform]
+[2025.12.09-17.16.08:364][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/abstract_lifeform/BP_lifeform]
+[2025.12.09-17.16.08:385][177]LogSavePackage: Moving output files for package: /Game/animalBPs/abstract_lifeform/BP_lifeform
+[2025.12.09-17.16.08:386][177]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_lifeformE0DE350241C23943B7A4D2925AA33B7E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/abstract_lifeform/BP_lifeform.uasset'
+[2025.12.09-17.16.08:395][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.599 ms (total: 9.04 sec)
+[2025.12.09-17.16.08:461][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-17.16.08:461][177]LogContentValidation: Enabled validators:
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-17.16.08:461][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-17.16.08:461][177]AssetCheck: /Game/animalBPs/abstract_lifeform/BP_lifeform Validating asset
+[2025.12.09-17.16.11:774][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.09-17.16.11:777][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-17.16.11:834][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/abstract_lifeform/BP_lifeform] ([2] browsable assets)...
+[2025.12.09-17.16.11:834][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/abstract_lifeform/BP_lifeform]
+[2025.12.09-17.16.11:853][372]LogSavePackage: Moving output files for package: /Game/animalBPs/abstract_lifeform/BP_lifeform
+[2025.12.09-17.16.11:853][372]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_lifeform3CB6187648F22A09A0A5DBB7DE375A63.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/abstract_lifeform/BP_lifeform.uasset'
+[2025.12.09-17.16.11:864][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.176 ms (total: 9.12 sec)
+[2025.12.09-17.16.11:922][372]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-17.16.11:922][372]LogContentValidation: Enabled validators:
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-17.16.11:922][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-17.16.11:922][372]AssetCheck: /Game/animalBPs/abstract_lifeform/BP_lifeform Validating asset
+[2025.12.09-17.16.29:863][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.09-17.16.29:867][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-17.16.29:919][447]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/abstract_lifeform/BP_lifeform] ([2] browsable assets)...
+[2025.12.09-17.16.30:140][447]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/abstract_lifeform/BP_lifeform.BP_lifeform]
+[2025.12.09-17.16.30:140][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/abstract_lifeform/BP_lifeform]
+[2025.12.09-17.16.30:179][447]LogSavePackage: Moving output files for package: /Game/animalBPs/abstract_lifeform/BP_lifeform
+[2025.12.09-17.16.30:179][447]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_lifeform176F41C54B7A047D58624F9F6D62861F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/abstract_lifeform/BP_lifeform.uasset'
+[2025.12.09-17.16.30:193][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 326.788 ms (total: 9.45 sec)
+[2025.12.09-17.16.30:261][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-17.16.30:261][447]LogContentValidation: Enabled validators:
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-17.16.30:261][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-17.16.30:261][447]AssetCheck: /Game/animalBPs/abstract_lifeform/BP_lifeform Validating asset
