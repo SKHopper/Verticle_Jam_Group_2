@@ -1,0 +1,31 @@
+---,text
+basic,"You are a bee, and your goal is to have enough Honey in your Hive for the winter.
+Your Hive makes Honey after you deposite Nectar, which is gained passively 
+from touching flowering Native plants.
+Plants also give you pollen, which can pollinate other plants to grow automatically
+from seeds. Red-pollen Invasive plants will not give Nectar and may have other
+bad effects.
+While some Native animals are helpful, Invasive animals may steal Honey from
+your Hive, destroy plantlife, or attack you. You can sting these animals freely, but
+if you are attacked too many times you will have to respawn using Honey."
+controls,"
+Move - WASD + SPACE + LSHIFT
+Sting - LMB
+Interact/Deposit Nectar - RMB
+Pause - P/ESC"
+species,"
+ - Invasive Plants
+Japanese Knotweed
+Himalayan Balsam
+Azelea
+ - Native Plants
+English Ivy
+English Bluebell
+Poppies
+ - Invasive Animals
+House Cats can destroy plants
+Asian Hornets can eat bees
+Green Hornets can attack beehives
+ - Native Animals
+Pink Footed Geese can scare woodpeckers
+Common Toads can eat hornets"
