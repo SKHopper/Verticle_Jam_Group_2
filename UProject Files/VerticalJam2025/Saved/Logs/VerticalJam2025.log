@@ -28349,3 +28349,105 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-11.58.49:721][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
 [2025.12.10-11.58.49:732][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
 [2025.12.10-11.58.49:776][916]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.12.10-11.59.26:554][521]LogDerivedDataCache: C:/Users/skojo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-12.02.58:244][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3916.529297
+[2025.12.10-12.02.59:237][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-12.02.59:237][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3917.191406, Update Interval: 322.453064
+[2025.12.10-12.04.15:266][980]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.04.15:266][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.04.15:281][980]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.04.15:281][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.04.15:358][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.10-12.08.58:756][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4277.041992
+[2025.12.10-12.08.59:760][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-12.08.59:760][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4277.710449, Update Interval: 359.739990
+[2025.12.10-12.10.19:205][ 17]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.10.19:266][ 17]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-12.10.19:266][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment.jpg]
+[2025.12.10-12.10.19:268][ 17]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-12.10.19:268][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy.png]
+[2025.12.10-12.10.19:270][ 17]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.10-12.10.19:270][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_2.png]
+[2025.12.10-12.10.19:271][ 17]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.10-12.10.19:271][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_3.png]
+[2025.12.10-12.10.19:271][ 17]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.10.19:271][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_4.png]
+[2025.12.10-12.10.19:272][ 17]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.10-12.10.19:922][ 19]LogInterchangeCore: Warning: The Interchange.MaxAssetPathLength value (160) is too high for the current setup.
+Content path: 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/'
+System max path length: 260.
+
+[2025.12.10-12.10.19:929][ 19]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.10.19:933][ 20]LogInterchangeImport: JPEG file [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.10-12.10.19:979][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.10.19:980][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.10.19:982][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.10.19:989][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.10.20:317][ 21]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment.2D_Environment (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 581.776946 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.20:591][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment.jpg]
+[2025.12.10-12.10.20:591][ 21]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.10.20:591][ 21]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.10.20:591][ 21]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/Ui_Test.png]
+[2025.12.10-12.10.20:626][ 22]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy.2D_Environment_copy (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.20:649][ 22]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_2.2D_Environment_copy_2 (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.20:663][ 22]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_3.2D_Environment_copy_3 (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.20:672][ 22]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_4.2D_Environment_copy_4 (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.20:922][ 22]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy.png]
+[2025.12.10-12.10.20:922][ 22]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.10-12.10.20:923][ 22]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_2.png]
+[2025.12.10-12.10.20:923][ 22]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.10-12.10.20:924][ 22]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_3.png]
+[2025.12.10-12.10.20:924][ 22]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-12.10.20:925][ 22]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_4.png]
+[2025.12.10-12.10.20:925][ 22]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.10-12.10.21:538][ 24]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.10.21:612][ 25]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.10.21:882][ 26]LogTexture: Display: Building textures: /Game/main_menu/Ui_Test.Ui_Test (TFO_AutoDXT, 3508x2480 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.12.10-12.10.22:228][ 26]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/Ui_Test.png]
+[2025.12.10-12.10.22:281][ 26]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-12.10.22:281][ 26]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-12.10.30:849][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.10-12.10.32:081][431]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.10-12.10.32:154][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.10-12.10.32:192][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.12.10-12.10.32:222][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.10-12.14.08:360][496]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.14.08:367][496]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-12.14.08:367][496]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment.jpg]
+[2025.12.10-12.14.08:369][496]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-12.14.08:369][496]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy.png]
+[2025.12.10-12.14.08:370][496]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.10-12.14.08:370][496]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_2.png]
+[2025.12.10-12.14.08:371][496]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.10-12.14.08:371][496]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_3.png]
+[2025.12.10-12.14.08:371][496]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.14.08:371][496]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment_copy_4.png]
+[2025.12.10-12.14.08:372][496]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.12.10-12.14.09:062][498]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.14.09:066][499]LogInterchangeImport: JPEG file [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/2D_Environment.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.10-12.14.09:066][499]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.14.09:066][499]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.14.09:067][499]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.14.09:069][499]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.14.09:401][499]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy.2D_Environment_copy (BGRA8, 544x307 x1x1x1) (Required Memory Estimate: 6.733757 MB), EncodeSpeed: Fast
+[2025.12.10-12.14.09:401][499]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_2.2D_Environment_copy_2 (BGRA8, 716x306 x1x1x1) (Required Memory Estimate: 8.522064 MB), EncodeSpeed: Fast
+[2025.12.10-12.14.09:403][500]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_3.2D_Environment_copy_3 (BGRA8, 598x293 x1x1x1) (Required Memory Estimate: 7.01548 MB), EncodeSpeed: Fast
+[2025.12.10-12.14.09:729][500]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment.jpg]
+[2025.12.10-12.14.09:729][500]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.14.09:729][500]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.12.10-12.14.09:729][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/main/Ui_Test.png]
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy.png]
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_2.png]
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_3.png]
+[2025.12.10-12.14.09:730][500]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-12.14.09:738][500]LogTexture: Display: Building textures: /Game/main_menu/2D_Environment_copy_4.2D_Environment_copy_4 (BGRA8, 570x302 x1x1x1) (Required Memory Estimate: 6.909958 MB), EncodeSpeed: Fast
+[2025.12.10-12.14.10:059][501]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/2D_Environment_copy_4.png]
+[2025.12.10-12.14.10:059][501]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.10-12.14.10:722][503]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-12.14.10:753][504]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.10-12.14.11:061][505]LogTexture: Display: Building textures: /Game/main_menu/Ui_Test.Ui_Test (BGRA8, 1934x1618 x1x1x1) (Required Memory Estimate: 108.432953 MB), EncodeSpeed: Fast
+[2025.12.10-12.14.11:395][505]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr.../Asset Files/UI/main/Ui_Test.png]
+[2025.12.10-12.14.11:433][505]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-12.14.11:433][505]LogInterchangeEngine: [Success] Import Done
