@@ -1227,3 +1227,445 @@ System max path length: 260.
 [2025.12.10-21.40.20:109][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 981.661926
 [2025.12.10-21.40.21:107][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-21.40.21:107][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 982.327942, Update Interval: 321.160309
+[2025.12.10-21.44.02:782][812]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-21.44.02:878][812]LogAssetTools: Warning: Failed to import 'C:\everything\Bluebell Texture.usd'. Unknown extension 'usd'.
+[2025.12.10-21.45.52:155][141]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1313.708984
+[2025.12.10-21.45.53:150][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-21.45.53:150][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1314.372681, Update Interval: 308.117310
+[2025.12.10-21.46.51:694][495]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.12.10-21.46.51:702][495]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.12.10-21.46.51:715][496]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.12.10-21.46.58:881][920]LogContentBrowser: Attempting asset rename: NewMaterial -> M_bluebell
+[2025.12.10-21.46.58:890][920]LogContentBrowser: End creating deferred item NewMaterial
+[2025.12.10-21.46.59:393][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.46.59:461][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/M_bluebell] ([1] browsable assets)...
+[2025.12.10-21.46.59:472][949]OBJ SavePackage:     Rendered thumbnail for [Material /Game/plant/assets/M_bluebell.M_bluebell]
+[2025.12.10-21.46.59:472][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/M_bluebell]
+[2025.12.10-21.46.59:482][949]LogSavePackage: Moving output files for package: /Game/plant/assets/M_bluebell
+[2025.12.10-21.46.59:482][949]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/M_bluebellE9BC37244DA35DA592E77794DD9AF832.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/M_bluebell.uasset'
+[2025.12.10-21.46.59:502][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.790 ms (total: 294.089 ms)
+[2025.12.10-21.46.59:598][949]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.46.59:598][949]LogContentValidation: Enabled validators:
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.46.59:598][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.46.59:598][949]AssetCheck: /Game/plant/assets/M_bluebell Validating asset
+[2025.12.10-21.46.59:622][949]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-21.47.00:316][988]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/plant/assets/M_bluebell.M_bluebell
+[2025.12.10-21.47.00:344][988]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.10-21.47.00:911][988]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.00:911][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.10-21.47.00:911][988]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.00:911][988]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.00:913][988]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.10-21.47.00:997][990]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.10-21.47.00:997][990]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.00:997][990]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.10-21.47.00:997][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.10-21.47.00:998][990]MaterialEditorStats: Shader Count: 5
+[2025.12.10-21.47.00:998][990]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.14:049][207]LogStreaming: Display: FlushAsyncLoading(372): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-21.47.14:057][207]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-21.47.14:057][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_Normal.png]
+[2025.12.10-21.47.14:058][207]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-21.47.14:058][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.10-21.47.14:059][207]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.10-21.47.14:059][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_BaseColor.png]
+[2025.12.10-21.47.14:759][209]LogStreaming: Display: FlushAsyncLoading(375): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-21.47.15:096][210]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.12.10-21.47.15:109][211]LogTexture: Display: Building textures: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal.English_Bluebell_exp_2_aiStandardSurface1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.12.10-21.47.15:111][211]LogTexture: Display: Building textures: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic.English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.10-21.47.15:128][211]LogTexture: Display: Building textures: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor.English_Bluebell_exp_2_aiStandardSurface1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.10-21.47.15:469][211]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr...Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_Normal.png]
+[2025.12.10-21.47.15:469][211]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.10-21.47.15:470][211]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr...Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.10-21.47.15:470][211]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.10-21.47.15:470][211]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr...Asset Files/Textures/English_Bluebell_exp_2_aiStandardSurface1_BaseColor.png]
+[2025.12.10-21.47.15:484][211]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-21.47.15:484][211]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-21.47.19:985][280]LogShaderCompilers: Display: Cancelled job 0x000001AC63FAAA00 with pending SubmitJob call.
+[2025.12.10-21.47.19:988][280]LogShaderCompilers: Display: Cancelled job 0x000001ACA4711400 with pending SubmitJob call.
+[2025.12.10-21.47.20:000][280]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.20:000][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.10-21.47.20:000][280]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.20:000][280]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.20:060][281]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.20:060][281]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.20:060][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.10-21.47.20:061][281]MaterialEditorStats: Shader Count: 3
+[2025.12.10-21.47.20:061][281]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Shader Count: 5
+[2025.12.10-21.47.20:111][282]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.26:836][661]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.26:836][661]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.10-21.47.26:836][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.26:836][661]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.26:836][661]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: Shader Count: 2
+[2025.12.10-21.47.26:998][664]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Shader Count: 4
+[2025.12.10-21.47.27:642][699]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.32:778][967]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.32:778][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.10-21.47.32:778][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.32:778][967]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.32:778][967]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: Shader Count: 2
+[2025.12.10-21.47.32:950][969]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: Shader Count: 3
+[2025.12.10-21.47.33:400][994]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Shader Count: 4
+[2025.12.10-21.47.33:530][999]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.35:877][135]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.35:878][135]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.35:878][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.35:878][135]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.35:878][135]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.36:422][156]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.10-21.47.36:423][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.36:423][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.36:423][156]MaterialEditorStats: Shader Count: 2
+[2025.12.10-21.47.36:423][156]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: Shader Count: 3
+[2025.12.10-21.47.36:488][160]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Shader Count: 4
+[2025.12.10-21.47.36:890][184]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.37:211][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.10-21.47.37:216][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.47.37:307][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal] ([1] browsable assets)...
+[2025.12.10-21.47.37:311][201]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal.English_Bluebell_exp_2_aiStandardSurface1_Normal]
+[2025.12.10-21.47.37:311][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal]
+[2025.12.10-21.47.37:351][201]LogSavePackage: Moving output files for package: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal
+[2025.12.10-21.47.37:351][201]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/English_Bluebell_exp_2_aiStandar6B58F324457D5825A2992E85C2EE2420.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal.uasset'
+[2025.12.10-21.47.37:352][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.10-21.47.37:355][201]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic.English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic]
+[2025.12.10-21.47.37:355][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic]
+[2025.12.10-21.47.37:404][201]LogSavePackage: Moving output files for package: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic
+[2025.12.10-21.47.37:404][201]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/English_Bluebell_exp_2_aiStandar2EBD429C4727A5CB09FC2F9D6F0E7C22.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.12.10-21.47.37:406][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor] ([1] browsable assets)...
+[2025.12.10-21.47.37:408][201]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor.English_Bluebell_exp_2_aiStandardSurface1_BaseColor]
+[2025.12.10-21.47.37:408][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor]
+[2025.12.10-21.47.37:449][201]LogSavePackage: Moving output files for package: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor
+[2025.12.10-21.47.37:449][201]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/English_Bluebell_exp_2_aiStandar5B45F14943155872AB0CD1BED7D41B58.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor.uasset'
+[2025.12.10-21.47.37:460][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.925 ms (total: 538.015 ms)
+[2025.12.10-21.47.37:526][201]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.10-21.47.37:526][201]LogContentValidation: Enabled validators:
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.47.37:526][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.47.37:526][201]AssetCheck: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_Normal Validating asset
+[2025.12.10-21.47.37:526][201]AssetCheck: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_OcclusionRoughnessMetallic Validating asset
+[2025.12.10-21.47.37:526][201]AssetCheck: /Game/plant/assets/English_Bluebell_exp_2_aiStandardSurface1_BaseColor Validating asset
+[2025.12.10-21.47.37:548][201]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-21.47.45:897][666]LogMaterialEditor: Saving and Compiling material M_bluebell
+[2025.12.10-21.47.45:994][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.10-21.47.47:351][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.10-21.47.47:365][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.47.47:441][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/M_bluebell] ([1] browsable assets)...
+[2025.12.10-21.47.47:512][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/plant/assets/M_bluebell.M_bluebell]
+[2025.12.10-21.47.47:512][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/M_bluebell]
+[2025.12.10-21.47.47:523][666]LogSavePackage: Moving output files for package: /Game/plant/assets/M_bluebell
+[2025.12.10-21.47.47:523][666]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/M_bluebell0B4D899B4C62928579428DA67567FD49.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/M_bluebell.uasset'
+[2025.12.10-21.47.47:539][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.709 ms (total: 711.725 ms)
+[2025.12.10-21.47.47:627][666]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.47.47:627][666]LogContentValidation: Enabled validators:
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.47.47:627][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.47.47:627][666]AssetCheck: /Game/plant/assets/M_bluebell Validating asset
+[2025.12.10-21.47.52:680][927]LogMaterial: Display: Material /Game/plant/assets/M_bluebell.M_bluebell needed to have new flag set bUsedWithNanite !
+[2025.12.10-21.47.52:681][927]LogMaterial: Display: Material /Engine/Transient.M_bluebell needed to have new flag set bUsedWithNanite !
+[2025.12.10-21.47.52:749][927]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-21.47.52:749][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.52:749][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.52:749][927]MaterialEditorStats: Shader Count: 0
+[2025.12.10-21.47.52:749][927]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Shader Count: 12
+[2025.12.10-21.47.52:844][929]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Nanite Compute Shader: 846 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Shader Count: 19
+[2025.12.10-21.47.56:127][124]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-21.47.57:460][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.47.57:607][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/plant/assets/Bluebell_Export] ([1] browsable assets)...
+[2025.12.10-21.47.57:665][198]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export]
+[2025.12.10-21.47.57:665][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/Bluebell_Export]
+[2025.12.10-21.47.57:689][198]LogSavePackage: Moving output files for package: /Game/plant/assets/Bluebell_Export
+[2025.12.10-21.47.57:689][198]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Bluebell_ExportA6399D1A48308FC71BC33AAFD25F0E35.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/Bluebell_Export.uasset'
+[2025.12.10-21.47.57:701][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.158 ms (total: 951.884 ms)
+[2025.12.10-21.47.57:769][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.47.57:769][198]LogContentValidation: Enabled validators:
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.47.57:769][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.47.57:770][198]AssetCheck: /Game/plant/assets/Bluebell_Export Validating asset
+[2025.12.10-21.48.03:366][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.12.10-21.48.04:288][502]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-21.48.04:319][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.48.04:419][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/plant/assets/M_bluebell] ([1] browsable assets)...
+[2025.12.10-21.48.04:419][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/plant/assets/M_bluebell]
+[2025.12.10-21.48.04:433][502]LogSavePackage: Moving output files for package: /Game/plant/assets/M_bluebell
+[2025.12.10-21.48.04:434][502]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/M_bluebell1C3F7A67406B740F6EBC009158271F3F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/plant/assets/M_bluebell.uasset'
+[2025.12.10-21.48.04:444][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.772 ms (total: 1.07 sec)
+[2025.12.10-21.48.04:444][502]Cmd: MAP LOAD FILE="../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.10-21.48.04:503][502]LogWorld: UWorld::CleanupWorld for L_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-21.48.04:503][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-21.48.04:531][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-21.48.04:533][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.10-21.48.04:534][502]LogStreaming: Display: FlushAsyncLoading(378): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-21.48.05:288][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/animalBPs/spawning/BP_animalSpawner.BP_animalSpawner_C:selectSpecies:speciesData'. Unknown structure.
+[2025.12.10-21.48.05:288][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/animalBPs/spawning/BP_animalSpawner.BP_animalSpawner_C:selectSpecies:outSpeciesData'. Unknown structure.
+[2025.12.10-21.48.05:288][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/animalBPs/spawning/BP_animalSpawner.BP_animalSpawner_C:selectSpecies:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2025.12.10-21.48.05:288][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/animalBPs/spawning/BP_animalSpawner.BP_animalSpawner_C:spawnAnimal:CallFunc_selectSpecies_speciesData'. Unknown structure.
+[2025.12.10-21.48.05:288][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/animalBPs/spawning/BP_animalSpawner.BP_animalSpawner_C:initialDataIntegration:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2025.12.10-21.48.05:307][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/plant/BP_plantSpawner.BP_plantSpawner_C:selectSpecies:outSpeciesData'. Unknown structure.
+[2025.12.10-21.48.05:307][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/plant/BP_plantSpawner.BP_plantSpawner_C:selectSpecies:speciesData'. Unknown structure.
+[2025.12.10-21.48.05:307][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/plant/BP_plantSpawner.BP_plantSpawner_C:selectSpecies:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2025.12.10-21.48.05:307][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/plant/BP_plantSpawner.BP_plantSpawner_C:initialDataIntegration:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2025.12.10-21.48.05:307][502]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/plant/BP_plantSpawner.BP_plantSpawner_C:spawnPlants:CallFunc_selectSpecies_outSpeciesData'. Unknown structure.
+[2025.12.10-21.48.05:797][502]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_main'.
+[2025.12.10-21.48.05:798][502]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.10-21.48.05:883][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.10-21.48.05:886][502]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2025.12.10-21.48.05:946][502]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.06s
+[2025.12.10-21.48.05:982][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.10-21.48.05:992][502]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.10-21.48.05:992][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2025.12.10-21.48.05:993][502]LogSlate: Window 'Open Level' being destroyed
+[2025.12.10-21.48.06:131][502]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.48.06:131][502]LogContentValidation: Enabled validators:
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.48.06:131][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.48.06:131][502]AssetCheck: /Game/plant/assets/M_bluebell Validating asset
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: ================================================
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Total job queries 409, among them cache hits 92 (22.49%), DDC hits 218 (53.30%), Duplicates 78 (19.07%)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Tracking 239 distinct input hashes that result in 145 distinct outputs (60.67%)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: RAM used: 1.32 MiB of 819.20 MiB budget. Usage: 0.16%
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Average time worker was idle: 6.68 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.16 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 3.24 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 3.40
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Shader code size: total 233.217 KiB, numShaders 21, average 11.105 KiB, min 5.102 KiB, max 20.465 KiB
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.11 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Total thread time: 23.254 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Total thread preprocess time: 10.679 s
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Percentage time preprocessing: 45.92%
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Effective parallelization: 2.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.319121
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.15 sec, max 3.15 sec, min 3.15 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.61 sec, max 2.51 sec, min 0.71 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.38 sec, max 2.52 sec, min 0.97 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.76% of total time (compiled    4 times, average 1.38 sec, max 2.52 sec, min 0.97 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.82% of total time (compiled    2 times, average 1.61 sec, max 2.51 sec, min 0.71 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.53% of total time (compiled    1 times, average 3.15 sec, max 3.15 sec, min 3.15 sec)
+[2025.12.10-21.48.06:148][502]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.44% of total time (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.24% of total time (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Materials Translated:    183
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Material Translation Only: 0.06 s (27%)
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: Material Cache Hits: 11 (6%)
+[2025.12.10-21.48.06:149][502]LogShaderCompilers: Display: ================================================
+[2025.12.10-21.48.06:347][504]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-21.48.07:553][531]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 1.60s
+[2025.12.10-21.48.13:435][859]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-21.48.13:435][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-21.48.13:475][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-21.48.18:382][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export
+[2025.12.10-21.48.18:382][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export
+[2025.12.10-21.48.18:383][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export as actor: StaticMeshActor /Game/main_level/L_main.L_main:PersistentLevel.StaticMeshActor_1
+[2025.12.10-21.48.19:273][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.10-21.48.19:275][159]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.12.10-21.48.19:280][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export
+[2025.12.10-21.48.19:280][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export
+[2025.12.10-21.48.19:281][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/plant/assets/Bluebell_Export.Bluebell_Export as actor: StaticMeshActor /Game/main_level/L_main.L_main:PersistentLevel.StaticMeshActor_5
+[2025.12.10-21.48.22:539][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.10-21.48.22:543][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.48.22:715][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.10-21.48.22:743][311]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.10-21.48.22:743][311]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_mainBAB72021414246B5C8C3D49B4F6EBFAB.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.10-21.48.22:757][311]LogFileHelpers: Saving map 'L_main' took 0.096
+[2025.12.10-21.48.22:770][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.472 ms (total: 1.30 sec)
+[2025.12.10-21.48.22:847][311]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.48.22:847][311]LogContentValidation: Enabled validators:
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.48.22:847][311]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.48.22:847][311]AssetCheck: /Game/main_level/L_main Validating asset
