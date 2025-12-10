@@ -8,15 +8,24 @@ bad effects.
 While some Native animals are helpful, Invasive animals may steal Honey from
 your Hive, destroy plantlife, or attack you. You can sting these animals freely, but
 if you are attacked too many times you will have to respawn using Honey."
-controls,"Move - WASD + SPACE + LSHIFT
+controls,"
+Move - WASD + SPACE + LSHIFT
 Sting - LMB
 Interact/Deposit Nectar - RMB
 Pause - P/ESC"
-species," - Invasive Plants
-
+species,"
+ - Invasive Plants
+Japanese Knotweed
+Himalayan Balsam
+Azelea
  - Native Plants
-
+English Ivy
+English Bluebell
+Poppies
  - Invasive Animals
-
+House Cats can destroy plants
+Asian Hornets can eat bees
+Green Hornets can attack beehives
  - Native Animals
-"
+Pink Footed Geese can scare woodpeckers
+Common Toads can eat hornets"
