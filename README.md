@@ -7,7 +7,7 @@ Harvey	Spooner - Developer, Designer
 Samuel	Hopper - Team Lead, Technical Lead
 
 Jacob	Abram - Developer, Designer
-Cyrus	Gray - Developer, Designer
+Cyrus	Gray - Developer, Designer, Asset Production
 Oliver	Broad - Developer, Designer
 	
 Maggie	Aleeva - Asset Production, Designer
