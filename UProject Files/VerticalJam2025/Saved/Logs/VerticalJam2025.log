@@ -6855,3 +6855,117 @@ System max path length: 260.
 [2025.12.11-14.16.31:939][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.11-14.16.31:939][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.11-14.16.31:939][346]AssetCheck: /Game/pollen_collect/ResourceManager/BP_ResourceManager Validating asset
+[2025.12.11-14.16.54:733][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.11-14.17.54:232][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2134.203369
+[2025.12.11-14.17.55:229][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-14.17.55:229][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2134.866699, Update Interval: 310.937225
+[2025.12.11-14.18.07:250][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.11-14.18.52:047][152]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.12.11-14.18.52:078][153]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.12.11-14.18.52:248][159]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.12.11-14.18.52:786][188]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/main_level/L_main.L_main:PersistentLevel.L_main
+[2025.12.11-14.18.52:787][188]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.12.11-14.19.14:191][402]LogEditorTransaction: Undo Delete current selection
+[2025.12.11-14.19.32:723][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.11-14.19.32:728][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.19.32:861][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.11-14.19.32:949][490]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.19.32:949][490]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_mainC7EECB774523E325519EF88C76486649.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.19.32:968][490]LogFileHelpers: Saving map 'L_main' took 0.171
+[2025.12.11-14.19.32:982][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.684 ms (total: 8.26 sec)
+[2025.12.11-14.19.33:056][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.19.33:056][490]LogContentValidation: Enabled validators:
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.19.33:056][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.19.33:056][490]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.19.47:939][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.11-14.19.57:701][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.11-14.19.57:706][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.19.57:822][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.11-14.19.57:906][948]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.19.57:907][948]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_main3E528FFF47B4CCB707D58F8AD979D03E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.19.57:924][948]LogFileHelpers: Saving map 'L_main' took 0.157
+[2025.12.11-14.19.57:936][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.613 ms (total: 8.49 sec)
+[2025.12.11-14.19.58:008][948]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.19.58:008][948]LogContentValidation: Enabled validators:
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.19.58:008][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.19.58:008][948]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.20.15:371][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.11-14.20.15:375][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.20.15:489][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.11-14.20.15:573][983]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.20.15:574][983]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_main7F33A1464ED907C6D32076B673221C53.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.20.15:591][983]LogFileHelpers: Saving map 'L_main' took 0.159
+[2025.12.11-14.20.15:604][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.965 ms (total: 8.72 sec)
+[2025.12.11-14.20.15:674][983]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.20.15:674][983]LogContentValidation: Enabled validators:
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.20.15:674][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.20.15:674][983]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.21.09:128][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.11-14.21.09:132][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.21.09:261][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.11-14.21.09:347][770]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.21.09:348][770]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_main5017EF194B69132132DC02A73F24BE72.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.21.09:364][770]LogFileHelpers: Saving map 'L_main' took 0.165
+[2025.12.11-14.21.09:375][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.801 ms (total: 8.96 sec)
+[2025.12.11-14.21.09:437][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.21.09:437][770]LogContentValidation: Enabled validators:
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.21.09:437][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.21.09:437][770]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.21.28:456][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.11-14.21.28:462][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.21.28:590][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.11-14.21.28:679][866]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.21.28:680][866]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_mainFFD3B4B14871EA07A85960A650327B47.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.21.28:695][866]LogFileHelpers: Saving map 'L_main' took 0.167
+[2025.12.11-14.21.28:708][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.384 ms (total: 9.21 sec)
+[2025.12.11-14.21.28:767][866]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.21.28:767][866]LogContentValidation: Enabled validators:
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.21.28:767][866]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.21.28:767][866]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.21.43:846][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.11-14.21.43:852][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.21.43:963][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.11-14.21.44:052][727]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.21.44:053][727]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_main27870FA44CBC53F74EAC67A7F4E883C0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.21.44:068][727]LogFileHelpers: Saving map 'L_main' took 0.163
+[2025.12.11-14.21.44:079][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.600 ms (total: 9.44 sec)
+[2025.12.11-14.21.44:145][727]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.21.44:145][727]LogContentValidation: Enabled validators:
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.21.44:145][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.21.44:145][727]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.23.20:527][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.11-14.23.35:101][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.11-14.23.38:687][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.11-14.23.44:705][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.680176
+[2025.12.11-14.23.45:704][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-14.23.45:704][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2485.344238, Update Interval: 313.017365
