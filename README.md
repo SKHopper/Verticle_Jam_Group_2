@@ -15,9 +15,9 @@ Bharatveer	Bhakar - Asset Production, Designer
 Adam	Turner - Asset Production, Designer
 Louis 	Davies - Asset Production, Designer
 
-Lydia	Swift - Concept Artist, Designer, UI Artist
+Lydia	Swift - Concept Artist, Designer, UI Artist, Asset Production
 Maui	Lum Lopez - Concept Artist, Designer, UI Artist
 Sofia	Santos Pereira Trigo - Concept Artist, Designer
 Emi 	Rogers - Concept Artist, Designer, UI Artist
-Denitsa	Miteva - Concept Artist, Designer
+Denitsa	Miteva - Concept Artist, Designer, Asset Production
 Amelia	Oleksiej - Concept Artist, Designer
